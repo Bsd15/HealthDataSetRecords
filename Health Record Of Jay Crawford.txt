@@ -1,0 +1,44 @@
+FIRSTNAME  :  Jay
+LASTNAME  :  Crawford
+ADDRESS  :  1286 Helene Path
+CITY  :  Lexington
+EMAIL  :  jay.c@gmail.com
+PHONE  :  7301079100
+DOB  :  Tue Mar 31 05:30:00 IST 1964
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Colitis
+MEDICATION  :  Heartburn Prevention oral|Erythrocin (as stearate) oral|Heartburn Relief (ranitidine) oral|Mintox oral|Pepcid Complete oral|dexlansoprazole oral|EryPed 200 oral|Ri-Mox oral|E.E.S. 200 oral|Phillips Milk of Magnesia oral|Gaviscon oral|potassium bicarbonate-sodium bicarbonate-citric acid oral|Wal-Zan 150 oral|Ri-Mag oral|famotidine (PF) intravenous|Protonix oral|Acid Control (ranitidine) oral|Protonix intravenous|magnesium carbonate
+MEDICALEXPENSE  :  2700
+INSURANCENUMBER  :  INS-263029070283543912976701
+HOSPITAL  :  Harding Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Jay
+LASTNAME  :  Crawford
+ADDRESS  :  1286 Helene Path
+CITY  :  Lexington
+EMAIL  :  jay.c@gmail.com
+PHONE  :  7301079100
+DOB  :  Tue Mar 31 05:30:00 IST 1964
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Chronic Liver and Cirrhosis
+MEDICATION  :  Cystadane|Viokase|Humatin|rosiglitazone|Panokase|Creon|Pertzye
+MEDICALEXPENSE  :  2700
+INSURANCENUMBER  :  INS-263029070283543912976701
+HOSPITAL  :  Grooverville Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Jay
+LASTNAME  :  Crawford
+ADDRESS  :  1286 Helene Path
+CITY  :  Lexington
+EMAIL  :  jay.c@gmail.com
+PHONE  :  7301079100
+DOB  :  Tue Mar 31 05:30:00 IST 1964
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Influenza
+MEDICATION  :  glycopyrronium bromide|ethambutol|epoprostenol sodium|cefaclor|vilanterol trifenatate|pneumococcal conjugate vaccine adsorbed|budesonide|sodium cromoglycate (cromolyn sodium)|bupropion hydrochloride|varenicline|pirfenidone|ketoconazole|amoxicillin|alpha 1-antitrypsin|ampicillin|pneumococcal 13-valent conjugate vaccine|umeclidinium bromide|oseltamivir
+MEDICALEXPENSE  :  74600
+INSURANCENUMBER  :  INS-263029070283543912976701
+HOSPITAL  :  Walthourville Health Care
+HOSPITALTYPE  :  Private Hospital

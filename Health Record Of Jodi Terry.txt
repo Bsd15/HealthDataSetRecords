@@ -1,0 +1,59 @@
+FIRSTNAME  :  Jodi
+LASTNAME  :  Terry
+ADDRESS  :  1636 Dyer Drive
+CITY  :  Kingsland
+EMAIL  :  jodi.t1911@gmail.com
+PHONE  :  8620240276
+DOB  :  Fri Jul 26 05:30:00 IST 1968
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Diabetes and Kidney Disease
+MEDICATION  :  calcium liquid
+MEDICALEXPENSE  :  7000
+INSURANCENUMBER  :  INS-683394172171885640884464
+HOSPITAL  :  Fort Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Jodi
+LASTNAME  :  Terry
+ADDRESS  :  1636 Dyer Drive
+CITY  :  Kingsland
+EMAIL  :  jodi.t1911@gmail.com
+PHONE  :  8620240276
+DOB  :  Fri Jul 26 05:30:00 IST 1968
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Urinary Incontinence
+MEDICATION  :  Viekira Pak (ombitasvir paritaprevir ritonavir and dasabuvir) tablets|Myrbetriq (mirabegron)|Vaprisol (conivaptan)|Fosrenol lanthanum carbonate|EDEX|Hectorol (Doxercalciferol) Injection|Trelstar LA (triptorelin pamoate)
+MEDICALEXPENSE  :  44200
+INSURANCENUMBER  :  INS-683394172171885640884464
+HOSPITAL  :  Dacula Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Jodi
+LASTNAME  :  Terry
+ADDRESS  :  1636 Dyer Drive
+CITY  :  Kingsland
+EMAIL  :  jodi.t1911@gmail.com
+PHONE  :  8620240276
+DOB  :  Fri Jul 26 05:30:00 IST 1968
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Anemia
+MEDICATION  :  Lovenox (enoxaparin sodium) Injection|Nplate (romiplostim)|Promacta (eltrombopag)|Atryn (antithrombin recombinant lyophilized powder for reconstitution)|Nascobal Gel (Cyanocobalamin USP)|Pomalyst (pomalidomide)|Wilate (von Willebrand Factor/Coagulation Factor VIII Complex (Human)|Neutroval (tbo-filgrastim)|Darzalex (daratumumab)|Mozobil (plerixafor injection)
+MEDICALEXPENSE  :  57100
+INSURANCENUMBER  :  INS-683394172171885640884464
+HOSPITAL  :  Eatonton Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Jodi
+LASTNAME  :  Terry
+ADDRESS  :  1636 Dyer Drive
+CITY  :  Kingsland
+EMAIL  :  jodi.t1911@gmail.com
+PHONE  :  8620240276
+DOB  :  Fri Jul 26 05:30:00 IST 1968
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Angiotensin Receptor Blockers
+MEDICATION  :  metoprolol|Replavite/Renavite|aluminum hydroxide|ramipril|bisopolol|iron sucrose (restricted)^|cinacalcet (restricted)****|sevelamer (restricted)***|erythropoietin (Eprex) [restricted]*^|verapamil|Vitamin D3|ferrous fumarate|PEG 3350 with electrolytes
+MEDICALEXPENSE  :  4000
+INSURANCENUMBER  :  INS-683394172171885640884464
+HOSPITAL  :  Tyrone Health Care
+HOSPITALTYPE  :  General Hospital

@@ -1,0 +1,44 @@
+FIRSTNAME  :  Sierra
+LASTNAME  :  Wells
+ADDRESS  :  835 Hill Ln
+CITY  :  Bainbridge
+EMAIL  :  sierra.w@gmail.com
+PHONE  :  7138654949
+DOB  :  Sat Sep 26 05:30:00 IST 1970
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Interstitial Cystitis/Painful Bladder Syndrome (IC/PBS)
+MEDICATION  :  Provenge (sipuleucel-T)|Simulect|Carbaglu (carglumic acid)|Zoladex (10.8 mg goserelin acetate implant)|Myrbetriq (mirabegron)
+MEDICALEXPENSE  :  1900
+INSURANCENUMBER  :  INS-735886872589784381465185
+HOSPITAL  :  Uvalda Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Sierra
+LASTNAME  :  Wells
+ADDRESS  :  835 Hill Ln
+CITY  :  Bainbridge
+EMAIL  :  sierra.w@gmail.com
+PHONE  :  7138654949
+DOB  :  Sat Sep 26 05:30:00 IST 1970
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Thrombotic Thrombocytopenic Purpura
+MEDICATION  :  BeneFIX (coagulation Factor IX (recombinant))|Ferrlecit|Marqibo (vinCRIStine sulfate LIPOSOME injection)|Lovenox (enoxaparin sodium) Injection|Ruconest (C1 esterase inhibitor [recombinant])|Imbruvica (ibrutinib)|Farydak (panobinostat)|Revlimid (lenalidomide)|Samsca (tolvaptan)|Imbruvica (ibrutinib)|Sylvant (siltuximab)|Kogenate FS (Antihemophilic Factor Recombinant)|Dacogen (decitabine)|Visipaque (iodixanol)|Refludan|Revlimid (lenalidomide)|Glyburide Tablets
+MEDICALEXPENSE  :  4700
+INSURANCENUMBER  :  INS-735886872589784381465185
+HOSPITAL  :  Dover Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Sierra
+LASTNAME  :  Wells
+ADDRESS  :  835 Hill Ln
+CITY  :  Bainbridge
+EMAIL  :  sierra.w@gmail.com
+PHONE  :  7138654949
+DOB  :  Sat Sep 26 05:30:00 IST 1970
+DISEASETYPE  :  Cancer
+DISEASE  :  Trophoblastic tumor gestational
+MEDICATION  :  Idamycin (Idarubicin Hydrochloride)|Imbruvica (Ibrutinib)|Tagrisso (Osimertinib)|Ontak (Denileukin Diftitox)|Faslodex (Fulvestrant)|EPOCH|Prolia (Denosumab)|ABVD|Talimogene Laherparepvec|Sutent (Sunitinib Malate)|Cyclophosphamide|Cervarix (Recombinant HPV Bivalent Vaccine)|Xgeva (Denosumab)|Abitrexate (Methotrexate)
+MEDICALEXPENSE  :  800
+INSURANCENUMBER  :  INS-735886872589784381465185
+HOSPITAL  :  Louisville Medical Services
+HOSPITALTYPE  :  Private Hospital

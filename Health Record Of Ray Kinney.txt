@@ -1,0 +1,44 @@
+FIRSTNAME  :  Ray
+LASTNAME  :  Kinney
+ADDRESS  :  592 Quincy Ridge
+CITY  :  Barretts
+EMAIL  :  ray.k@gmail.com
+PHONE  :  7423426485
+DOB  :  Mon May 29 05:30:00 IST 1961
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Spirometry
+MEDICATION  :  sodium cromoglycate (cromolyn sodium)|cefaclor|fluconazole|pneumococcal conjugate vaccine adsorbed|ofloxacin|alpha 1-antitrypsin|etoposide
+MEDICALEXPENSE  :  69400
+INSURANCENUMBER  :  INS-695399658715429723603289
+HOSPITAL  :  Morven Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Ray
+LASTNAME  :  Kinney
+ADDRESS  :  592 Quincy Ridge
+CITY  :  Barretts
+EMAIL  :  ray.k@gmail.com
+PHONE  :  7423426485
+DOB  :  Mon May 29 05:30:00 IST 1961
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Benign Prostatic Hyperplasia (BPH)
+MEDICATION  :  Feraheme (ferumoxytol)|Mesnex|Vesicare (solifenacin succinate)|Renagel (sevelamer hydrochloride)|Zenapax|PhosLo|Trelstar Depot (triptorelin pamoate)|Eligard (leuprolide acetate)|Jevtana (cabazitaxel)|Invanz|FLOMAX|Stendra (avanafil)|Voraxaze (glucarpidase)|EDEX|Degarelix (degarelix for injection)|Gelnique (oxybutynin chloride)
+MEDICALEXPENSE  :  38200
+INSURANCENUMBER  :  INS-695399658715429723603289
+HOSPITAL  :  Stone Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Ray
+LASTNAME  :  Kinney
+ADDRESS  :  592 Quincy Ridge
+CITY  :  Barretts
+EMAIL  :  ray.k@gmail.com
+PHONE  :  7423426485
+DOB  :  Mon May 29 05:30:00 IST 1961
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Hemolytic Uremic Syndrome in Children
+MEDICATION  :  Renagel (sevelamer hydrochloride)|Venofer (iron sucrose injection)|Detrol (tolterodine tartrate)|Cipro (ciprofloxacin HCl)|Zortress (everolimus)|Votrient (pazopanib)|EDEX|Voraxaze (glucarpidase)|Stendra (avanafil)|Oxytrol (oxybutynin transdermal system)|Lupron Depot (leuprolide acetate for depot suspension)|Feraheme (ferumoxytol)|Afinitor (everolimus)|Nascobal Gel (Cyanocobalamin USP)|Visipaque (iodixanol)
+MEDICALEXPENSE  :  1100
+INSURANCENUMBER  :  INS-695399658715429723603289
+HOSPITAL  :  Needmore Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital

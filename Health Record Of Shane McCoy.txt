@@ -1,0 +1,59 @@
+FIRSTNAME  :  Shane
+LASTNAME  :  McCoy
+ADDRESS  :  588 Granville Square
+CITY  :  Perry
+EMAIL  :  shane.m@gmail.com
+PHONE  :  8810177085
+DOB  :  Thu May 12 05:30:00 IST 1955
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Arteriovenous (AV) Graft
+MEDICATION  :  gabapentin|iron gluconate^|calcium liquid|carbamazepine
+MEDICALEXPENSE  :  8100
+INSURANCENUMBER  :  INS-835187328457744429769464
+HOSPITAL  :  Statesboro Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Shane
+LASTNAME  :  McCoy
+ADDRESS  :  588 Granville Square
+CITY  :  Perry
+EMAIL  :  shane.m@gmail.com
+PHONE  :  8810177085
+DOB  :  Thu May 12 05:30:00 IST 1955
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Thrombotic Thrombocytopenic Purpura
+MEDICATION  :  Sylvant (siltuximab)|Soliris (eculizumab)
+MEDICALEXPENSE  :  11200
+INSURANCENUMBER  :  INS-835187328457744429769464
+HOSPITAL  :  Ocilla Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Shane
+LASTNAME  :  McCoy
+ADDRESS  :  588 Granville Square
+CITY  :  Perry
+EMAIL  :  shane.m@gmail.com
+PHONE  :  8810177085
+DOB  :  Thu May 12 05:30:00 IST 1955
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  The Burden of Digestive Diseases in the United States
+MEDICATION  :  aluminum hydrox-magnesium carb oral|Antacid oral|E.E.S. 400 oral|ranitidine oral|nizatidine oral|famotidine-Ca carb-mag hydrox oral|aluminum-magnesium hydroxide oral|Heartburn Treatment 24 Hour oral|Zegerid oral|Pepcid Complete oral|Pepcid oral|Protonix intravenous|Pedia-Lax oral
+MEDICALEXPENSE  :  6900
+INSURANCENUMBER  :  INS-835187328457744429769464
+HOSPITAL  :  Abba Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Shane
+LASTNAME  :  McCoy
+ADDRESS  :  588 Granville Square
+CITY  :  Perry
+EMAIL  :  shane.m@gmail.com
+PHONE  :  8810177085
+DOB  :  Thu May 12 05:30:00 IST 1955
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Myelodysplastic Syndromes
+MEDICATION  :  Neutroval (tbo-filgrastim)|Agrylin (anagrelide HCL)|Rituxan|Synribo (omacetaxine mepesuccinate)|Zydelig (idelalisib)|Lovenox (enoxaparin sodium) Injection|Beleodaq (belinostat)|Darzalex (daratumumab)|Vidaza (azacitidine)|Venofer (iron sucrose injection)|Pomalyst (pomalidomide)|Reyataz (atazanavir sulfate)|Bexxar|Marqibo (vinCRIStine sulfate LIPOSOME injection)|Aggrenox|Mozobil (plerixafor injection)|Ferriprox (deferiprone)|Veltassa (patiromer)|Praxbind (idarucizumab)
+MEDICALEXPENSE  :  97200
+INSURANCENUMBER  :  INS-835187328457744429769464
+HOSPITAL  :  Blue Medical Services
+HOSPITALTYPE  :  General Hospital

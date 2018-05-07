@@ -1,0 +1,59 @@
+FIRSTNAME  :  Charlotte
+LASTNAME  :  Maddox
+ADDRESS  :  564 Richmond Ridge
+CITY  :  Hardwicke
+EMAIL  :  charlotte.m@gmail.com
+PHONE  :  8757327009
+DOB  :  Mon Nov 05 05:30:00 IST 1973
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Biliary Atresia
+MEDICATION  :  pioglitazone|Nexavar|rosiglitazone|Humatin|Actigall|Urso|Urso Forte|Cystadane|Pertzye
+MEDICALEXPENSE  :  5900
+INSURANCENUMBER  :  INS-336230236238219471922596
+HOSPITAL  :  Kite Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Charlotte
+LASTNAME  :  Maddox
+ADDRESS  :  564 Richmond Ridge
+CITY  :  Hardwicke
+EMAIL  :  charlotte.m@gmail.com
+PHONE  :  8757327009
+DOB  :  Mon Nov 05 05:30:00 IST 1973
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Pernicious Anemia
+MEDICATION  :  BeneFIX (coagulation Factor IX (recombinant))|Omontys (peginesatide)|Beleodaq (belinostat)
+MEDICALEXPENSE  :  3500
+INSURANCENUMBER  :  INS-336230236238219471922596
+HOSPITAL  :  Lanier Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Charlotte
+LASTNAME  :  Maddox
+ADDRESS  :  564 Richmond Ridge
+CITY  :  Hardwicke
+EMAIL  :  charlotte.m@gmail.com
+PHONE  :  8757327009
+DOB  :  Mon Nov 05 05:30:00 IST 1973
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Digestive Diseases Statistics for the United States
+MEDICATION  :  paromomycin|Neo-Fradin|sorafenib|pioglitazone|Viokace|FUDR|Pancrease MT|Pancrecarb MS|Viokase|Luminal|Neo-Tab
+MEDICALEXPENSE  :  1600
+INSURANCENUMBER  :  INS-336230236238219471922596
+HOSPITAL  :  Westwood Medical Services
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Charlotte
+LASTNAME  :  Maddox
+ADDRESS  :  564 Richmond Ridge
+CITY  :  Hardwicke
+EMAIL  :  charlotte.m@gmail.com
+PHONE  :  8757327009
+DOB  :  Mon Nov 05 05:30:00 IST 1973
+DISEASETYPE  :  Cancer
+DISEASE  :  Pineal germinoma
+MEDICATION  :  Tarabine PFS (Cytarabine)|Busulfan|Necitumumab|Zofran (Ondansetron Hydrochloride)|Viadur (Leuprolide Acetate)|Daratumumab|Etoposide|Idamycin (Idarubicin Hydrochloride)|Talimogene Laherparepvec|Zydelig (Idelalisib)|Enzalutamide|Pertuzumab|Lanreotide Acetate|Azacitidine|Oncaspar (Pegaspargase)|Thalomid (Thalidomide)|ABVE-PC|5-FU (Fluorouracil--Topical)|Radium 223 Dichloride
+MEDICALEXPENSE  :  9400
+INSURANCENUMBER  :  INS-336230236238219471922596
+HOSPITAL  :  Rincon Medical Services
+HOSPITALTYPE  :  Private Hospital

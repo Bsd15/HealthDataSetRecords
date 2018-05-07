@@ -1,0 +1,44 @@
+FIRSTNAME  :  Ryan
+LASTNAME  :  Clemons
+ADDRESS  :  1259 Pembroke Street
+CITY  :  Homeland
+EMAIL  :  ryan.c370@gmail.com
+PHONE  :  8362558857
+DOB  :  Wed May 21 05:30:00 IST 1969
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Cystoscopy and Ureteroscopy
+MEDICATION  :  Renagel (sevelamer hydrochloride)|Myrbetriq (mirabegron)|RenaGelRenagel (sevelamer hydrochloride)|Feraheme (ferumoxytol)|Zemplar|Carbaglu (carglumic acid)|Avastin (bevacizumab)|Cefazolin and Dextrose USP|Fabrazyme (agalsidase beta)|Jevtana (cabazitaxel)|Interstim Continence Control Therapy|Venofer (iron sucrose injection)|Degarelix (degarelix for injection)|Ditropan XL (oxybutynin chloride)|Oxytrol (oxybutynin transdermal system)|Soliris (eculizumab)|Gelnique (oxybutynin chloride)
+MEDICALEXPENSE  :  82500
+INSURANCENUMBER  :  INS-674355883582824231283631
+HOSPITAL  :  Berlin Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Ryan
+LASTNAME  :  Clemons
+ADDRESS  :  1259 Pembroke Street
+CITY  :  Homeland
+EMAIL  :  ryan.c370@gmail.com
+PHONE  :  8362558857
+DOB  :  Wed May 21 05:30:00 IST 1969
+DISEASETYPE  :  Cancer
+DISEASE  :  Lymphoma Burkitt
+MEDICATION  :  CAF|Siltuximab|Netupitant and Palonosetron Hydrochloride|Procarbazine Hydrochloride|Fludara (Fludarabine Phosphate)|FOLFIRI|Alemtuzumab|Mexate-AQ (Methotrexate)|Irinotecan Hydrochloride Liposome|Ruxolitinib Phosphate|Omacetaxine Mepesuccinate
+MEDICALEXPENSE  :  84900
+INSURANCENUMBER  :  INS-674355883582824231283631
+HOSPITAL  :  Sale Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Ryan
+LASTNAME  :  Clemons
+ADDRESS  :  1259 Pembroke Street
+CITY  :  Homeland
+EMAIL  :  ryan.c370@gmail.com
+PHONE  :  8362558857
+DOB  :  Wed May 21 05:30:00 IST 1969
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Viral Hepatitis
+MEDICATION  :  colchicine|rosiglitazone|ursodiol|Viokace
+MEDICALEXPENSE  :  52100
+INSURANCENUMBER  :  INS-674355883582824231283631
+HOSPITAL  :  Alston Emergency Services
+HOSPITALTYPE  :  Private Hospital

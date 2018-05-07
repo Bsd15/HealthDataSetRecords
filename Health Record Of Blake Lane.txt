@@ -1,0 +1,44 @@
+FIRSTNAME  :  Blake
+LASTNAME  :  Lane
+ADDRESS  :  810 Robin Ridge
+CITY  :  Buena Vista
+EMAIL  :  blake.l@gmail.com
+PHONE  :  8648785724
+DOB  :  Thu Jan 16 05:30:00 IST 1958
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Albuminuria and CKD
+MEDICATION  :  nifedipine|cyanocobalamin|lactulose|iron gluconate^
+MEDICALEXPENSE  :  37000
+INSURANCENUMBER  :  INS-987045550304434452321783
+HOSPITAL  :  Buena Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Blake
+LASTNAME  :  Lane
+ADDRESS  :  810 Robin Ridge
+CITY  :  Buena Vista
+EMAIL  :  blake.l@gmail.com
+PHONE  :  8648785724
+DOB  :  Thu Jan 16 05:30:00 IST 1958
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Pancreatitis
+MEDICATION  :  famotidine-Ca carb-mag hydrox oral|Phillips' (magnesium hydroxide) oral|Prevacid SoluTab oral|Mintox oral|metoclopramide oral|Erythrocin (as stearate) oral|Antacid Liquid oral|Heartburn Prevention oral|Heartburn Treatment 24 Hour oral|erythromycin oral|Protonix oral|Acid Reducer (ranitidine) oral|Heartburn Relief oral
+MEDICALEXPENSE  :  4300
+INSURANCENUMBER  :  INS-987045550304434452321783
+HOSPITAL  :  Americus Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Blake
+LASTNAME  :  Lane
+ADDRESS  :  810 Robin Ridge
+CITY  :  Buena Vista
+EMAIL  :  blake.l@gmail.com
+PHONE  :  8648785724
+DOB  :  Thu Jan 16 05:30:00 IST 1958
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Diurnal Enuresis
+MEDICATION  :  Envarsus XR (tacrolimus extended-release)|Mircera (methoxy polyethylene glycol-epoetin beta)|Trelstar Depot (triptorelin pamoate)|Nulojix (belatacept)|Renvela (sevelamer carbonate)|Zortress (everolimus)|Doribax (doripenem)|Jalyn (dutasteride + tamsulosin)|Afinitor (everolimus)|Ditropan XL (oxybutynin chloride)|PhosLo|Feraheme (ferumoxytol)|Toviaz (fesoterodine fumarate)|Degarelix (degarelix for injection)|Vaprisol (conivaptan)|Invanz|Ditropan XL (oxybutynin chloride)|Torisel (temsirolimus)|Levaquin
+MEDICALEXPENSE  :  99700
+INSURANCENUMBER  :  INS-987045550304434452321783
+HOSPITAL  :  Glory Medical Services
+HOSPITALTYPE  :  State Funded Hospital

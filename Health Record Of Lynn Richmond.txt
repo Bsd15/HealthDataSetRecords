@@ -1,0 +1,44 @@
+FIRSTNAME  :  Lynn
+LASTNAME  :  Richmond
+ADDRESS  :  1726 Washington Boulevard
+CITY  :  Lawrenceville
+EMAIL  :  lynn.r1910@gmail.com
+PHONE  :  7668513458
+DOB  :  Mon Sep 01 05:30:00 IST 1975
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Renal Osteodystrophy
+MEDICATION  :  enalapril|acebutolol|10% uremol in glaxal base|aluminum hydroxide|ferrous sulfate gluconate & fumarate|labetalol|iron sucrose (restricted)^|nitroglycerin patch|metoclopramide|calcium acetate|sennosides|cyanocobalamin|minoxidil|lanthanum (restricted)***|darpepoetin (Aransep) (restricted)*^|clonidine hydrochloride
+MEDICALEXPENSE  :  51100
+INSURANCENUMBER  :  INS-262246300473457157751913
+HOSPITAL  :  Rebecca Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Lynn
+LASTNAME  :  Richmond
+ADDRESS  :  1726 Washington Boulevard
+CITY  :  Lawrenceville
+EMAIL  :  lynn.r1910@gmail.com
+PHONE  :  7668513458
+DOB  :  Mon Sep 01 05:30:00 IST 1975
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Urinary Diversion
+MEDICATION  :  Lupron Depot (leuprolide acetate for depot suspension)|Renvela (sevelamer carbonate)|Nascobal Gel (Cyanocobalamin USP)|Provenge (sipuleucel-T)|Renagel (sevelamer hydrochloride)|Injectafer (ferric carboxymaltose injection)|Venofer (iron sucrose injection)|Cefazolin and Dextrose USP|Afinitor (everolimus)|Renagel (sevelamer hydrochloride)|Caverject (alprostadil)|Stendra (avanafil)|Ditropan XL (oxybutynin chloride)|Torisel (temsirolimus)|Vaprisol (conivaptan)|Eulexin (flutamide)|Simulect|Stivarga (regorafenib)
+MEDICALEXPENSE  :  2400
+INSURANCENUMBER  :  INS-262246300473457157751913
+HOSPITAL  :  Rincon Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Lynn
+LASTNAME  :  Richmond
+ADDRESS  :  1726 Washington Boulevard
+CITY  :  Lawrenceville
+EMAIL  :  lynn.r1910@gmail.com
+PHONE  :  7668513458
+DOB  :  Mon Sep 01 05:30:00 IST 1975
+DISEASETYPE  :  Cancer
+DISEASE  :  Non-Hodgkin lymphoma
+MEDICATION  :  Proleukin (Aldesleukin)|Bexarotene|Clolar (Clofarabine)|Amboclorin (Chlorambucil)|Panobinostat|Paclitaxel|Lupron Depot-Ped (Leuprolide Acetate)|Idamycin (Idarubicin Hydrochloride)|Aldesleukin|HPV Quadrivalent Vaccine Recombinant|Gemtuzumab Ozogamicin
+MEDICALEXPENSE  :  200
+INSURANCENUMBER  :  INS-262246300473457157751913
+HOSPITAL  :  Daisy Hospital
+HOSPITALTYPE  :  Private Hospital

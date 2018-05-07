@@ -1,0 +1,59 @@
+FIRSTNAME  :  Amy
+LASTNAME  :  Knight
+ADDRESS  :  527 Salgarber Court
+CITY  :  Atkinson
+EMAIL  :  amy.k@gmail.com
+PHONE  :  8658836012
+DOB  :  Tue Jan 22 05:30:00 IST 1963
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  End-stage Renal Disease
+MEDICATION  :  telmisartan**|Replavite/Renavite|losartan potassium**|iron gluconate^|folate/folic acid|aluminum hydroxide|allopurinol|ranitidine hydrochloride|hydralazine|Calcium Supplements|sinemet|domperidone
+MEDICALEXPENSE  :  800
+INSURANCENUMBER  :  INS-808467670560814785638893
+HOSPITAL  :  Monroe Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Amy
+LASTNAME  :  Knight
+ADDRESS  :  527 Salgarber Court
+CITY  :  Atkinson
+EMAIL  :  amy.k@gmail.com
+PHONE  :  8658836012
+DOB  :  Tue Jan 22 05:30:00 IST 1963
+DISEASETYPE  :  Cancer
+DISEASE  :  Myeloid leukemia adult acute
+MEDICATION  :  Zinecard (Dexrazoxane Hydrochloride)|Purixan (Mercaptopurine)|Oxaliplatin|Vandetanib|Paraplatin (Carboplatin)
+MEDICALEXPENSE  :  73000
+INSURANCENUMBER  :  INS-808467670560814785638893
+HOSPITAL  :  Statenville Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Amy
+LASTNAME  :  Knight
+ADDRESS  :  527 Salgarber Court
+CITY  :  Atkinson
+EMAIL  :  amy.k@gmail.com
+PHONE  :  8658836012
+DOB  :  Tue Jan 22 05:30:00 IST 1963
+DISEASETYPE  :  Cancer
+DISEASE  :  S�zary syndrome
+MEDICATION  :  Totect (Dexrazoxane Hydrochloride)|Ibritumomab Tiuxetan|Gemcitabine Hydrochloride|Velsar (Vinblastine Sulfate)|Ixempra (Ixabepilone)|Ramucirumab|ABVE|Gefitinib|Carmustine Implant|Votrient (Pazopanib Hydrochloride)|Pazopanib Hydrochloride|Erwinaze (Asparaginase Erwinia chrysanthemi)|Kepivance (Palifermin)|Paclitaxel|Avastin (Bevacizumab)|Recombinant Human Papillomavirus (HPV) Bivalent Vaccine|BEACOPP|Camptosar (Irinotecan Hydrochloride)|Panobinostat
+MEDICALEXPENSE  :  34700
+INSURANCENUMBER  :  INS-808467670560814785638893
+HOSPITAL  :  Fairburn Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Amy
+LASTNAME  :  Knight
+ADDRESS  :  527 Salgarber Court
+CITY  :  Atkinson
+EMAIL  :  amy.k@gmail.com
+PHONE  :  8658836012
+DOB  :  Tue Jan 22 05:30:00 IST 1963
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Urinary Incontinence
+MEDICATION  :  Mesnex|Stendra (avanafil)|Jalyn (dutasteride + tamsulosin)|Auryxia (Ferric citrate)|Oxytrol (oxybutynin transdermal system)|Viadur (leuprolide acetate implant)|Vaprisol (conivaptan)|Envarsus XR (tacrolimus extended-release)|Afinitor (everolimus)|Toviaz (fesoterodine fumarate)|Eligard (leuprolide acetate)|Soliris (eculizumab)|Ditropan XL (oxybutynin chloride)|Doribax (doripenem)|RenaGelRenagel (sevelamer hydrochloride)
+MEDICALEXPENSE  :  6900
+INSURANCENUMBER  :  INS-808467670560814785638893
+HOSPITAL  :  Cochran Medical Services
+HOSPITALTYPE  :  State Funded Hospital

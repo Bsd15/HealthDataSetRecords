@@ -1,0 +1,59 @@
+FIRSTNAME  :  Sarah
+LASTNAME  :  Hewitt
+ADDRESS  :  1194 Steele Trail
+CITY  :  Valdosta
+EMAIL  :  sarah.h694@gmail.com
+PHONE  :  8354855181
+DOB  :  Mon Nov 03 05:30:00 IST 1980
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Infection Bladder
+MEDICATION  :  Nulojix (belatacept)|Harvoni (ledipasvir and sofosbuvir)|Xifaxan (rifaximin)|Carbaglu (carglumic acid)|Ditropan XL (oxybutynin chloride)|Trelstar Depot (triptorelin pamoate)
+MEDICALEXPENSE  :  55600
+INSURANCENUMBER  :  INS-017365881169575242085761
+HOSPITAL  :  Brooks Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Sarah
+LASTNAME  :  Hewitt
+ADDRESS  :  1194 Steele Trail
+CITY  :  Valdosta
+EMAIL  :  sarah.h694@gmail.com
+PHONE  :  8354855181
+DOB  :  Mon Nov 03 05:30:00 IST 1980
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Lupus Nephritis
+MEDICATION  :  aluminum hydroxide|candesartan**|calcium carbonate (not Calsan brand)|Maxilene (restricted)*****|sevelamer (restricted)***|gabapentin|Replavite|felodipine
+MEDICALEXPENSE  :  5100
+INSURANCENUMBER  :  INS-017365881169575242085761
+HOSPITAL  :  Hapeville Medical Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Sarah
+LASTNAME  :  Hewitt
+ADDRESS  :  1194 Steele Trail
+CITY  :  Valdosta
+EMAIL  :  sarah.h694@gmail.com
+PHONE  :  8354855181
+DOB  :  Mon Nov 03 05:30:00 IST 1980
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Liver Transplantation
+MEDICATION  :  Dygase|orlistat|Humatin
+MEDICALEXPENSE  :  6000
+INSURANCENUMBER  :  INS-017365881169575242085761
+HOSPITAL  :  Culloden Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Sarah
+LASTNAME  :  Hewitt
+ADDRESS  :  1194 Steele Trail
+CITY  :  Valdosta
+EMAIL  :  sarah.h694@gmail.com
+PHONE  :  8354855181
+DOB  :  Mon Nov 03 05:30:00 IST 1980
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Urinary Diversion
+MEDICATION  :  Mesnex|Procysbi (cysteamine bitartrate)
+MEDICALEXPENSE  :  71000
+INSURANCENUMBER  :  INS-017365881169575242085761
+HOSPITAL  :  Sandy Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital

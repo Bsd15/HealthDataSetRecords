@@ -1,0 +1,59 @@
+FIRSTNAME  :  Russ
+LASTNAME  :  Townsend
+ADDRESS  :  1367 Cochran Station
+CITY  :  Fort Oglethorpe
+EMAIL  :  russ.t603@gmail.com
+PHONE  :  7569489123
+DOB  :  Sun Dec 23 05:30:00 IST 1973
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Rapid Gastric Emptying
+MEDICATION  :  Prilosec oral|Nexium Packet oral|pantoprazole oral|Pedia-Lax oral|Rulox oral|PCE oral|famotidine (PF) intravenous|AcipHex Sprinkle oral|Erythrocin (as stearate) oral|Milk Of Magnesia Concentrated oral
+MEDICALEXPENSE  :  33700
+INSURANCENUMBER  :  INS-393263792416236352000106
+HOSPITAL  :  Cobbtown Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Russ
+LASTNAME  :  Townsend
+ADDRESS  :  1367 Cochran Station
+CITY  :  Fort Oglethorpe
+EMAIL  :  russ.t603@gmail.com
+PHONE  :  7569489123
+DOB  :  Sun Dec 23 05:30:00 IST 1973
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Pleurisy
+MEDICATION  :  glycopyrronium bromide|rifampin|salmeterol xinafoate|grass pollen allergen extract|itraconazole|pirfenidone|alpha 1-antitrypsin|tobramycin sulfate|prednisone|fluticasone propionate|orciprenaline|cefaclor|nicotine|triamcinolone acetonide|vilanterol trifenatate|montelukast sodium|zanamivir
+MEDICALEXPENSE  :  59800
+INSURANCENUMBER  :  INS-393263792416236352000106
+HOSPITAL  :  Lenox Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Russ
+LASTNAME  :  Townsend
+ADDRESS  :  1367 Cochran Station
+CITY  :  Fort Oglethorpe
+EMAIL  :  russ.t603@gmail.com
+PHONE  :  7569489123
+DOB  :  Sun Dec 23 05:30:00 IST 1973
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Lupus Nephritis
+MEDICATION  :  lactulose|perindopril|sodium polystyrene sulfonate|calcitriol (oral only)|nortryptyline|enalapril|calcium carbonate (not Calsan brand)|carbamazepine|minoxidil
+MEDICALEXPENSE  :  3100
+INSURANCENUMBER  :  INS-393263792416236352000106
+HOSPITAL  :  Inaha Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Russ
+LASTNAME  :  Townsend
+ADDRESS  :  1367 Cochran Station
+CITY  :  Fort Oglethorpe
+EMAIL  :  russ.t603@gmail.com
+PHONE  :  7569489123
+DOB  :  Sun Dec 23 05:30:00 IST 1973
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Cystoscopy and Ureteroscopy
+MEDICATION  :  Voraxaze (glucarpidase)|Detrol (tolterodine tartrate)|Omontys (peginesatide)
+MEDICALEXPENSE  :  7400
+INSURANCENUMBER  :  INS-393263792416236352000106
+HOSPITAL  :  Alston Emergency Services
+HOSPITALTYPE  :  Private Hospital

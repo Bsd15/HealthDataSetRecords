@@ -1,0 +1,59 @@
+FIRSTNAME  :  Jenny
+LASTNAME  :  Ray
+ADDRESS  :  1748 Parliament Trail
+CITY  :  Watkinsville
+EMAIL  :  jenny.r@gmail.com
+PHONE  :  8161877057
+DOB  :  Sat Jun 11 05:30:00 IST 1960
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Hantavirus
+MEDICATION  :  cefprozil
+MEDICALEXPENSE  :  71200
+INSURANCENUMBER  :  INS-953274276962955588302780
+HOSPITAL  :  Retreat Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Jenny
+LASTNAME  :  Ray
+ADDRESS  :  1748 Parliament Trail
+CITY  :  Watkinsville
+EMAIL  :  jenny.r@gmail.com
+PHONE  :  8161877057
+DOB  :  Sat Jun 11 05:30:00 IST 1960
+DISEASETYPE  :  Cancer
+DISEASE  :  Oligodendroglioma
+MEDICATION  :  Cytosar-U (Cytarabine)|Onivyde (Irinotecan Hydrochloride Liposome)|Topotecan Hydrochloride|ABVE|GEMCITABINE-OXALIPLATIN|Omacetaxine Mepesuccinate
+MEDICALEXPENSE  :  65200
+INSURANCENUMBER  :  INS-953274276962955588302780
+HOSPITAL  :  Flowery Hospital
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Jenny
+LASTNAME  :  Ray
+ADDRESS  :  1748 Parliament Trail
+CITY  :  Watkinsville
+EMAIL  :  jenny.r@gmail.com
+PHONE  :  8161877057
+DOB  :  Sat Jun 11 05:30:00 IST 1960
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Pandemic Flu
+MEDICATION  :  oxtriphylline|flunisolide
+MEDICALEXPENSE  :  9700
+INSURANCENUMBER  :  INS-953274276962955588302780
+HOSPITAL  :  Montezuma Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Jenny
+LASTNAME  :  Ray
+ADDRESS  :  1748 Parliament Trail
+CITY  :  Watkinsville
+EMAIL  :  jenny.r@gmail.com
+PHONE  :  8161877057
+DOB  :  Sat Jun 11 05:30:00 IST 1960
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Hemophilia
+MEDICATION  :  Lovenox (enoxaparin sodium) Injection|Vpriv (velaglucerase alfa for injection)|Ferriprox (deferiprone)|Mozobil (plerixafor injection)|Idelvion (Coagulation Factor IX (Recombinant) Albumin Fusion Protein)|Mircera (methoxy polyethylene glycol-epoetin beta)|Promacta (eltrombopag)
+MEDICALEXPENSE  :  47300
+INSURANCENUMBER  :  INS-953274276962955588302780
+HOSPITAL  :  Sugar Medical Services
+HOSPITALTYPE  :  MultiSpeciality Hospital

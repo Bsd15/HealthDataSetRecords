@@ -1,0 +1,44 @@
+FIRSTNAME  :  Joel
+LASTNAME  :  Duffy
+ADDRESS  :  1496 Snoke Station
+CITY  :  Jefferson
+EMAIL  :  joel.d@gmail.com
+PHONE  :  8982382547
+DOB  :  Fri Nov 28 05:30:00 IST 1980
+DISEASETYPE  :  Cancer
+DISEASE  :  Mycosis fungoides
+MEDICATION  :  Avastin (Bevacizumab)|Carmubris (Carmustine)|Ipilimumab|Becenum (Carmustine)|Efudex (Fluorouracil--Topical)|Carmustine|Paraplatin (Carboplatin)|Netupitant and Palonosetron Hydrochloride|Eloxatin (Oxaliplatin)|Oxaliplatin|DepoCyt (Cytarabine Liposome)
+MEDICALEXPENSE  :  4100
+INSURANCENUMBER  :  INS-745634221988945949677105
+HOSPITAL  :  Thelma Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Joel
+LASTNAME  :  Duffy
+ADDRESS  :  1496 Snoke Station
+CITY  :  Jefferson
+EMAIL  :  joel.d@gmail.com
+PHONE  :  8982382547
+DOB  :  Fri Nov 28 05:30:00 IST 1980
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Simple Kidney Cysts
+MEDICATION  :  Renvela (sevelamer carbonate)|Rapamune (sirolimus) Tablets|Procysbi (cysteamine bitartrate)|Levaquin|Mesnex|RenaGelRenagel (sevelamer hydrochloride)|Viadur (leuprolide acetate implant)|Detrol (tolterodine tartrate)|Trelstar LA (triptorelin pamoate)|Cefazolin and Dextrose USP|UroXatral (alfuzosin HCl extended-release tablets)
+MEDICALEXPENSE  :  200
+INSURANCENUMBER  :  INS-745634221988945949677105
+HOSPITAL  :  Bowens Hospital
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Joel
+LASTNAME  :  Duffy
+ADDRESS  :  1496 Snoke Station
+CITY  :  Jefferson
+EMAIL  :  joel.d@gmail.com
+PHONE  :  8982382547
+DOB  :  Fri Nov 28 05:30:00 IST 1980
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Celiac Disease
+MEDICATION  :  famotidine in 0.9 % sodium chloride intravenous|Protonix oral|magnesium carbonate|EryPed 200 oral|Phillips' (magnesium hydroxide) oral|Acid Reducer Complete (famotidine) oral|Complete oral|metoclopramide oral|Pepcid oral|E.E.S. Granules oral|Zegerid OTC oral|magnesium carbonate-asafetida oral|Reglan oral|aluminum-magnesium hydroxide oral|magnesium-aluminum-alginic ac oral|Rolaids oral|AcipHex Sprinkle oral
+MEDICALEXPENSE  :  57500
+INSURANCENUMBER  :  INS-745634221988945949677105
+HOSPITAL  :  Glory Hospital
+HOSPITALTYPE  :  State Funded Hospital

@@ -1,0 +1,59 @@
+FIRSTNAME  :  Autumn
+LASTNAME  :  Case
+ADDRESS  :  1185 Flintridge Avenue
+CITY  :  Pine Lake
+EMAIL  :  autumn.c@gmail.com
+PHONE  :  8212505784
+DOB  :  Sat Feb 16 05:30:00 IST 1957
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Ureteroscopy
+MEDICATION  :  Inlyta (axitinib)|Stendra (avanafil)|Zemplar|FLOMAX|Zoladex (10.8 mg goserelin acetate implant)|Trelstar LA (triptorelin pamoate)|Procysbi (cysteamine bitartrate)|Viekira Pak (ombitasvir paritaprevir ritonavir and dasabuvir) tablets|Viadur (leuprolide acetate implant)
+MEDICALEXPENSE  :  7100
+INSURANCENUMBER  :  INS-888628451346140334131827
+HOSPITAL  :  Daisy Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Autumn
+LASTNAME  :  Case
+ADDRESS  :  1185 Flintridge Avenue
+CITY  :  Pine Lake
+EMAIL  :  autumn.c@gmail.com
+PHONE  :  8212505784
+DOB  :  Sat Feb 16 05:30:00 IST 1957
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Thalassemia
+MEDICATION  :  Dacogen (decitabine)|Rituxan|Samsca (tolvaptan)|Atryn (antithrombin recombinant lyophilized powder for reconstitution)|Nymalize (nimodipine)
+MEDICALEXPENSE  :  38300
+INSURANCENUMBER  :  INS-888628451346140334131827
+HOSPITAL  :  Dunwoody Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Autumn
+LASTNAME  :  Case
+ADDRESS  :  1185 Flintridge Avenue
+CITY  :  Pine Lake
+EMAIL  :  autumn.c@gmail.com
+PHONE  :  8212505784
+DOB  :  Sat Feb 16 05:30:00 IST 1957
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Primary Biliary Cirrhosis
+MEDICATION  :  Pangestyme|Nexavar|Paromycin|Actigall|Panocaps|Actigall|Ultresa|Pancrease MT|orlistat|ursodiol|ursodiol
+MEDICALEXPENSE  :  22900
+INSURANCENUMBER  :  INS-888628451346140334131827
+HOSPITAL  :  Unionville Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Autumn
+LASTNAME  :  Case
+ADDRESS  :  1185 Flintridge Avenue
+CITY  :  Pine Lake
+EMAIL  :  autumn.c@gmail.com
+PHONE  :  8212505784
+DOB  :  Sat Feb 16 05:30:00 IST 1957
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Anemia
+MEDICATION  :  Pomalyst (pomalidomide)|Nuwiq (recombinant Factor VIII)|Neulasta|Kcentra (Prothrombin Complex Concentrate)|Obizur [Antihemophilic Factor (Recombinant) Porcine Sequence]|Nymalize (nimodipine)|Droxia
+MEDICALEXPENSE  :  78000
+INSURANCENUMBER  :  INS-888628451346140334131827
+HOSPITAL  :  Bainbridge Emergency Services
+HOSPITALTYPE  :  MultiSpeciality Hospital

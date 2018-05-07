@@ -1,0 +1,59 @@
+FIRSTNAME  :  Thomas
+LASTNAME  :  Guthrie
+ADDRESS  :  1183 Frick St
+CITY  :  Dixie
+EMAIL  :  thomas.g@gmail.com
+PHONE  :  8478957581
+DOB  :  Fri Apr 06 05:30:00 IST 1956
+DISEASETYPE  :  Cancer
+DISEASE  :  Pancreatic cancer
+MEDICATION  :  Cometriq (Cabozantinib-S-Malate)|Akynzeo (Netupitant and Palonosetron Hydrochloride)|Perjeta (Pertuzumab)
+MEDICALEXPENSE  :  54200
+INSURANCENUMBER  :  INS-491134928426169604600406
+HOSPITAL  :  Cairo Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Thomas
+LASTNAME  :  Guthrie
+ADDRESS  :  1183 Frick St
+CITY  :  Dixie
+EMAIL  :  thomas.g@gmail.com
+PHONE  :  8478957581
+DOB  :  Fri Apr 06 05:30:00 IST 1956
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Pertussis
+MEDICATION  :  sodium cromoglycate (cromolyn sodium)|cephalexin|pneumococcal 13-valent conjugate vaccine|fluticasone propionate|ampicillin|umeclidinium bromide|cefprozil|influenza vaccine|vilanterol trifenatate|ciprofloxacin hydrochloride|varenicline|Indacaterol maleate|epoprostenol sodium|nicotine|tobramycin sulfate|budesonide|salmeterol xinafoate
+MEDICALEXPENSE  :  33900
+INSURANCENUMBER  :  INS-491134928426169604600406
+HOSPITAL  :  Lenox Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Thomas
+LASTNAME  :  Guthrie
+ADDRESS  :  1183 Frick St
+CITY  :  Dixie
+EMAIL  :  thomas.g@gmail.com
+PHONE  :  8478957581
+DOB  :  Fri Apr 06 05:30:00 IST 1956
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Ureteroscopy
+MEDICATION  :  Detrol (tolterodine tartrate)|Renagel (sevelamer hydrochloride)|Oxytrol (oxybutynin transdermal system)|Harvoni (ledipasvir and sofosbuvir)|Jalyn (dutasteride + tamsulosin)|Votrient (pazopanib)|RenaGelRenagel (sevelamer hydrochloride)|UroXatral (alfuzosin HCl extended-release tablets)|Sensipar (cinacalcet)|Proscar|PhosLo|Rapamune (sirolimus) Tablets|Caverject (alprostadil)|Torisel (temsirolimus)|Envarsus XR (tacrolimus extended-release)
+MEDICALEXPENSE  :  7000
+INSURANCENUMBER  :  INS-491134928426169604600406
+HOSPITAL  :  Cobbtown Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Thomas
+LASTNAME  :  Guthrie
+ADDRESS  :  1183 Frick St
+CITY  :  Dixie
+EMAIL  :  thomas.g@gmail.com
+PHONE  :  8478957581
+DOB  :  Fri Apr 06 05:30:00 IST 1956
+DISEASETYPE  :  Cancer
+DISEASE  :  Hairy cell leukemia
+MEDICATION  :  Ontak (Denileukin Diftitox)|Denosumab|Neosar (Cyclophosphamide)|Daunorubicin Hydrochloride|Cerubidine (Daunorubicin Hydrochloride)|ICE|Faslodex (Fulvestrant)|Akynzeo (Netupitant and Palonosetron Hydrochloride)|Votrient (Pazopanib Hydrochloride)|Pemetrexed Disodium|Femara (Letrozole)|Exemestane|Leukeran (Chlorambucil)|Istodax (Romidepsin)|Trisenox (Arsenic Trioxide)|Revlimid (Lenalidomide)|Lomustine|Mesnex (Mesna)
+MEDICALEXPENSE  :  1600
+INSURANCENUMBER  :  INS-491134928426169604600406
+HOSPITAL  :  Tucker Health Care
+HOSPITALTYPE  :  Private Hospital

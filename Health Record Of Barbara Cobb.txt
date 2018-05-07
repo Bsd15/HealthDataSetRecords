@@ -1,0 +1,44 @@
+FIRSTNAME  :  Barbara
+LASTNAME  :  Cobb
+ADDRESS  :  453 Gilbert Lane
+CITY  :  Crawfordville
+EMAIL  :  barbara.c@gmail.com
+PHONE  :  8532529694
+DOB  :  Mon Jan 23 05:30:00 IST 1961
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Stoma
+MEDICATION  :  Afinitor (everolimus)|Zortress (everolimus)|Detrol (tolterodine tartrate)|Caverject (alprostadil)|Nulojix (belatacept)|Cipro (ciprofloxacin HCl)|Dutasteride|Provenge (sipuleucel-T)|Anturol (oxybutynin) Gel|Gemzar (gemcitabine HCL)|Xifaxan (rifaximin)|Trelstar LA (triptorelin pamoate)|Eligard (leuprolide acetate)|Trelstar Depot (triptorelin pamoate)|Rapamune (sirolimus) Tablets|Nascobal Gel (Cyanocobalamin USP)|UroXatral (alfuzosin HCl extended-release tablets)
+MEDICALEXPENSE  :  6500
+INSURANCENUMBER  :  INS-784013413897463830373968
+HOSPITAL  :  Lexington Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Barbara
+LASTNAME  :  Cobb
+ADDRESS  :  453 Gilbert Lane
+CITY  :  Crawfordville
+EMAIL  :  barbara.c@gmail.com
+PHONE  :  8532529694
+DOB  :  Mon Jan 23 05:30:00 IST 1961
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Testing for Celiac Disease (For Healthcare Providers)
+MEDICATION  :  famotidine (PF) intravenous|Gaviscon Extra Strength oral|Heartburn Relief oral|Antacid Extra Strength (magnesium carb-aluminum hydrox) oral|Heartburn Antacid oral
+MEDICALEXPENSE  :  76600
+INSURANCENUMBER  :  INS-784013413897463830373968
+HOSPITAL  :  Springfield Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Barbara
+LASTNAME  :  Cobb
+ADDRESS  :  453 Gilbert Lane
+CITY  :  Crawfordville
+EMAIL  :  barbara.c@gmail.com
+PHONE  :  8532529694
+DOB  :  Mon Jan 23 05:30:00 IST 1961
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Pertussis
+MEDICATION  :  fluconazole|cefixime|clarithromycin|theophylline|fluticasone furoate|alpha 1-antitrypsin
+MEDICALEXPENSE  :  7200
+INSURANCENUMBER  :  INS-784013413897463830373968
+HOSPITAL  :  West Health Care
+HOSPITALTYPE  :  Private Hospital

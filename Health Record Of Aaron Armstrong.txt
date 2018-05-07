@@ -1,0 +1,59 @@
+FIRSTNAME  :  Aaron
+LASTNAME  :  Armstrong
+ADDRESS  :  1429 John Ln
+CITY  :  Powder Springs
+EMAIL  :  aaron.a@gmail.com
+PHONE  :  7996940907
+DOB  :  Sun Jan 22 05:30:00 IST 1984
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  HBV
+MEDICATION  :  Prilosec oral|Carafate oral
+MEDICALEXPENSE  :  42800
+INSURANCENUMBER  :  INS-963451874759651703773261
+HOSPITAL  :  Coolidge Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Aaron
+LASTNAME  :  Armstrong
+ADDRESS  :  1429 John Ln
+CITY  :  Powder Springs
+EMAIL  :  aaron.a@gmail.com
+PHONE  :  7996940907
+DOB  :  Sun Jan 22 05:30:00 IST 1984
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Sickle Cell Anemia
+MEDICATION  :  Dacogen (decitabine)|Pravachol (pravastatin sodium)|Bosulif (bosutinib)|Kovaltry [Antihemophilic Factor (Recombinant)]|Atryn (antithrombin recombinant lyophilized powder for reconstitution)|Vidaza (azacitidine)|Iclusig (ponatinib)|Actonel|Busulflex|Soliris (eculizumab)|Innohep (tinzaparin sodium) injectable|Droxia|Feraheme (ferumoxytol)
+MEDICALEXPENSE  :  87600
+INSURANCENUMBER  :  INS-963451874759651703773261
+HOSPITAL  :  Fairmont Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Aaron
+LASTNAME  :  Armstrong
+ADDRESS  :  1429 John Ln
+CITY  :  Powder Springs
+EMAIL  :  aaron.a@gmail.com
+PHONE  :  7996940907
+DOB  :  Sun Jan 22 05:30:00 IST 1984
+DISEASETYPE  :  Cancer
+DISEASE  :  Transitional cell cancer of the renal pelvis and ureter
+MEDICATION  :  Arsenic Trioxide|Tabloid (Thioguanine)|TPF|Taxol (Paclitaxel)|Uridine Triacetate|Ellence (Epirubicin Hydrochloride)|Alemtuzumab
+MEDICALEXPENSE  :  21500
+INSURANCENUMBER  :  INS-963451874759651703773261
+HOSPITAL  :  Cobbtown Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Aaron
+LASTNAME  :  Armstrong
+ADDRESS  :  1429 John Ln
+CITY  :  Powder Springs
+EMAIL  :  aaron.a@gmail.com
+PHONE  :  7996940907
+DOB  :  Sun Jan 22 05:30:00 IST 1984
+DISEASETYPE  :  Cancer
+DISEASE  :  Hepatocellular (liver) cancer
+MEDICATION  :  Busulfex (Busulfan)|Imiquimod|Pembrolizumab|MOPP|Halaven (Eribulin Mesylate)|Trabectedin|AC|Tarceva (Erlotinib Hydrochloride)|Dexamethasone|Mercaptopurine|Pazopanib Hydrochloride|Rolapitant Hydrochloride|R-CVP|Pomalyst (Pomalidomide)|Dabrafenib|Pomalidomide|5-FU (Fluorouracil Injection)|Onivyde (Irinotecan Hydrochloride Liposome)|Eloxatin (Oxaliplatin)
+MEDICALEXPENSE  :  89600
+INSURANCENUMBER  :  INS-963451874759651703773261
+HOSPITAL  :  Barney Medical Services
+HOSPITALTYPE  :  Private Hospital

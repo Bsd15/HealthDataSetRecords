@@ -1,0 +1,44 @@
+FIRSTNAME  :  Dave
+LASTNAME  :  Rivera
+ADDRESS  :  982 Lock Ave
+CITY  :  Lanier
+EMAIL  :  dave.r@gmail.com
+PHONE  :  8623681792
+DOB  :  Tue Oct 28 05:30:00 IST 1975
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Urine Albumin
+MEDICATION  :  calcitriol (oral only)|acebutolol|sorbitol|iron gluconate^|sevelamer (restricted)***|darbepoetin (Aranesp) [restricted]*^|lisinopril|candesartan**|gabapentin|desferoxamine|sennosides|desipramine|calcium liquid|furosemide
+MEDICALEXPENSE  :  7500
+INSURANCENUMBER  :  INS-044754035253931961469322
+HOSPITAL  :  Cogdell Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Dave
+LASTNAME  :  Rivera
+ADDRESS  :  982 Lock Ave
+CITY  :  Lanier
+EMAIL  :  dave.r@gmail.com
+PHONE  :  8623681792
+DOB  :  Tue Oct 28 05:30:00 IST 1975
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Pulmonary Embolism
+MEDICATION  :  Neumega|Imbruvica (ibrutinib)|Ruconest (C1 esterase inhibitor [recombinant])|Lovenox (enoxaparin sodium) Injection|Tretten (Coagulation Factor XIII A-Subunit [Recombinant])|Sylvant (siltuximab)|Zontivity (vorapaxar)|Busulflex|Feraheme (ferumoxytol)|Rixubis (Coagulation Factor IX (Recombinant)]|Natpara (parathyroid hormone)|Farydak (panobinostat)|Imbruvica (ibrutinib)|Droxia|Argatroban Injection
+MEDICALEXPENSE  :  29600
+INSURANCENUMBER  :  INS-044754035253931961469322
+HOSPITAL  :  Mayday Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Dave
+LASTNAME  :  Rivera
+ADDRESS  :  982 Lock Ave
+CITY  :  Lanier
+EMAIL  :  dave.r@gmail.com
+PHONE  :  8623681792
+DOB  :  Tue Oct 28 05:30:00 IST 1975
+DISEASETYPE  :  Cancer
+DISEASE  :  Rhabdomyosarcoma childhood
+MEDICATION  :  Hyper-CVAD|Epirubicin Hydrochloride|Imiquimod|Zydelig (Idelalisib)|Carmustine|Mozobil (Plerixafor)|Anastrozole|Gefitinib|Alemtuzumab|Siltuximab|Lonsurf (Trifluridine and Tipiracil Hydrochloride)|Opdivo (Nivolumab)|Votrient (Pazopanib Hydrochloride)|Alecensa (Alectinib)|Gardasil (Recombinant HPV Quadrivalent Vaccine)|CEM|Methotrexate|Keoxifene (Raloxifene Hydrochloride)
+MEDICALEXPENSE  :  7100
+INSURANCENUMBER  :  INS-044754035253931961469322
+HOSPITAL  :  Pelham Health Care
+HOSPITALTYPE  :  Private Hospital

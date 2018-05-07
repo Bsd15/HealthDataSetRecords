@@ -1,0 +1,44 @@
+FIRSTNAME  :  Tristan
+LASTNAME  :  Huff
+ADDRESS  :  1754 Gantz Trail
+CITY  :  Stillmore
+EMAIL  :  tristan.h@gmail.com
+PHONE  :  8508466896
+DOB  :  Mon Sep 24 05:30:00 IST 1956
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Deep Vein Thrombosis
+MEDICATION  :  Jakafi (ruxolitinib)|Aggrenox|Zontivity (vorapaxar)|Leukine (sargramostim)|AlphaNine SD Coagulation Factor IX (Human)|Innohep (tinzaparin sodium) injectable|Sylvant (siltuximab)|Femara (letrozole)|Revlimid (lenalidomide)|Revlimid (lenalidomide)|Feraheme (ferumoxytol)|Marqibo (vinCRIStine sulfate LIPOSOME injection)|Gazyva (obinutuzumab)|Kyprolis (carfilzomib)|BeneFIX (coagulation Factor IX (recombinant))|Vpriv (velaglucerase alfa for injection)|Istodax (romidepsin)
+MEDICALEXPENSE  :  9900
+INSURANCENUMBER  :  INS-063725571692096113137697
+HOSPITAL  :  Dawson Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Tristan
+LASTNAME  :  Huff
+ADDRESS  :  1754 Gantz Trail
+CITY  :  Stillmore
+EMAIL  :  tristan.h@gmail.com
+PHONE  :  8508466896
+DOB  :  Mon Sep 24 05:30:00 IST 1956
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Hemochromatosis
+MEDICATION  :  Pomalyst (pomalidomide)|Actonel|Efient (prasugrel)|Nascobal Gel (Cyanocobalamin USP)|Glyburide Tablets|Imbruvica (ibrutinib)
+MEDICALEXPENSE  :  84500
+INSURANCENUMBER  :  INS-063725571692096113137697
+HOSPITAL  :  Vidalia Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Tristan
+LASTNAME  :  Huff
+ADDRESS  :  1754 Gantz Trail
+CITY  :  Stillmore
+EMAIL  :  tristan.h@gmail.com
+PHONE  :  8508466896
+DOB  :  Mon Sep 24 05:30:00 IST 1956
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Sudden Infant Death Syndrome (SIDS)
+MEDICATION  :  pneumococcal conjugate vaccine|zanamivir|fluticasone furoate|gefitinib|bupropion hydrochloride|aminophylline|theophylline|cefprozil|pneumococcal conjugate vaccine adsorbed|prednisone|ethambutol|cefixime|short ragweed ( Ambrosia artemisiifolia ) allergen extract|cloxacillin|pyrazinamide|pneumococcal polysaccharide vaccine|glycopyrronium bromide|influenza vaccine-live attenuated|fluticasone propionate
+MEDICALEXPENSE  :  38600
+INSURANCENUMBER  :  INS-063725571692096113137697
+HOSPITAL  :  Perry Medical Services
+HOSPITALTYPE  :  State Funded Hospital

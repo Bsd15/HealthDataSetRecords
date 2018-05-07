@@ -1,0 +1,44 @@
+FIRSTNAME  :  Danielle
+LASTNAME  :  Cameron
+ADDRESS  :  1086 Carlysle Place
+CITY  :  Richmond Hill
+EMAIL  :  danielle.c1942@gmail.com
+PHONE  :  7932240196
+DOB  :  Tue Feb 17 05:30:00 IST 1970
+DISEASETYPE  :  Cancer
+DISEASE  :  Germ cell tumor: extracranial extragonadal or ovarian
+MEDICATION  :  Clofarex (Clofarabine)|Gardasil 9 (Recombinant HPV Nonavalent Vaccine)|Portrazza (Necitumumab)|Lenalidomide|ABVE-PC|Afinitor (Everolimus)|Perjeta (Pertuzumab)|Keoxifene (Raloxifene Hydrochloride)|Bleomycin|VeIP|Bendamustine Hydrochloride|Steritalc (Talc)|Aldesleukin|Filgrastim|Gemcitabine Hydrochloride|Recombinant Human Papillomavirus (HPV) Quadrivalent Vaccine|Eribulin Mesylate|Hyper-CVAD|Bicalutamide
+MEDICALEXPENSE  :  8600
+INSURANCENUMBER  :  INS-343749831509796642493590
+HOSPITAL  :  Elberton Emergency Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Danielle
+LASTNAME  :  Cameron
+ADDRESS  :  1086 Carlysle Place
+CITY  :  Richmond Hill
+EMAIL  :  danielle.c1942@gmail.com
+PHONE  :  7932240196
+DOB  :  Tue Feb 17 05:30:00 IST 1970
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Bronchiectasis
+MEDICATION  :  zanamivir|influenza vaccine|nystatin|clarithromycin|azithromycin|crizotinib|cefuroxime axetil|zafirlukast|cefixime|doxycycline|cloxacillin|fluconazole|erlotinib|flunisolide|prednisone|moxifloxacin
+MEDICALEXPENSE  :  34400
+INSURANCENUMBER  :  INS-343749831509796642493590
+HOSPITAL  :  Pineview Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Danielle
+LASTNAME  :  Cameron
+ADDRESS  :  1086 Carlysle Place
+CITY  :  Richmond Hill
+EMAIL  :  danielle.c1942@gmail.com
+PHONE  :  7932240196
+DOB  :  Tue Feb 17 05:30:00 IST 1970
+DISEASETYPE  :  Cancer
+DISEASE  :  Extrahepatic bile duct cancer
+MEDICATION  :  Zevalin (Ibritumomab Tiuxetan)|Bicalutamide|Fludara (Fludarabine Phosphate)|ABVE-PC|Tabloid (Thioguanine)|Bosutinib|Docetaxel|Ixempra (Ixabepilone)|Cyramza (Ramucirumab)|Romidepsin|Somatuline Depot (Lanreotide Acetate)|Interleukin-2 (Aldesleukin)|Casodex (Bicalutamide)|Imatinib Mesylate|DepoCyt (Cytarabine Liposome)|Sipuleucel-T|R-CVP|Sonidegib|Dacogen (Decitabine)
+MEDICALEXPENSE  :  8400
+INSURANCENUMBER  :  INS-343749831509796642493590
+HOSPITAL  :  Elberton Emergency Services
+HOSPITALTYPE  :  General Hospital

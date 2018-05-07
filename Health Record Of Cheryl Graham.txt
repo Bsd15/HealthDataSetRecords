@@ -1,0 +1,44 @@
+FIRSTNAME  :  Cheryl
+LASTNAME  :  Graham
+ADDRESS  :  1345 Countryside Drv
+CITY  :  Locust Grove
+EMAIL  :  cheryl.g@gmail.com
+PHONE  :  7288615876
+DOB  :  Sun Jun 10 05:30:00 IST 1979
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Vesicoureteral Reflux
+MEDICATION  :  Detrol (tolterodine tartrate)|Viekira Pak (ombitasvir paritaprevir ritonavir and dasabuvir) tablets|Zenapax|Mesnex|Nascobal Gel (Cyanocobalamin USP)|Envarsus XR (tacrolimus extended-release)|RenaGelRenagel (sevelamer hydrochloride)|Omontys (peginesatide)|PhosLo|Invanz
+MEDICALEXPENSE  :  11300
+INSURANCENUMBER  :  INS-668602913617432945759324
+HOSPITAL  :  Locust Emergency Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Cheryl
+LASTNAME  :  Graham
+ADDRESS  :  1345 Countryside Drv
+CITY  :  Locust Grove
+EMAIL  :  cheryl.g@gmail.com
+PHONE  :  7288615876
+DOB  :  Sun Jun 10 05:30:00 IST 1979
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Intussusception
+MEDICATION  :  aluminum-magnesium hydroxide oral|omeprazole magnesium oral|Prilosec OTC oral|magnesium hydroxide oral|MAG-AL oral|Heartburn Prevention oral|Metozolv ODT oral|Acid Gone Antacid Extra Strength oral|Tums Dual Action (famotidine) oral|Rolaids oral|EryPed 200 oral|Mintox oral|Nexium Packet oral|Antacid Extra-Strength oral|Zegerid OTC oral|Heartburn Relief (famotidine) oral|Antacid Extra Strength (magnesium carb-aluminum hydrox) oral
+MEDICALEXPENSE  :  8700
+INSURANCENUMBER  :  INS-668602913617432945759324
+HOSPITAL  :  Cobbtown Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Cheryl
+LASTNAME  :  Graham
+ADDRESS  :  1345 Countryside Drv
+CITY  :  Locust Grove
+EMAIL  :  cheryl.g@gmail.com
+PHONE  :  7288615876
+DOB  :  Sun Jun 10 05:30:00 IST 1979
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Croup
+MEDICATION  :  rifampin|ofloxacin|pyrazinamide|amoxicillin|cefixime|cisplatin|omalizumab|fluconazole|epoprostenol sodium|cefadroxil|penicillin|timothy grass pollen allergen extract|oseltamivir|cefaclor
+MEDICALEXPENSE  :  71500
+INSURANCENUMBER  :  INS-668602913617432945759324
+HOSPITAL  :  Rockingham Emergency Services
+HOSPITALTYPE  :  MultiSpeciality Hospital

@@ -1,0 +1,44 @@
+FIRSTNAME  :  Heath
+LASTNAME  :  Mueller
+ADDRESS  :  515 Stout Terrace
+CITY  :  Swainsboro
+EMAIL  :  heath.m@gmail.com
+PHONE  :  8217242359
+DOB  :  Sun Dec 03 05:30:00 IST 1961
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Henoch-Schajnlein Purpura
+MEDICATION  :  Obizur [Antihemophilic Factor (Recombinant) Porcine Sequence]|Veltassa (patiromer)|Nascobal Gel (Cyanocobalamin USP)|Blincyto (blinatumomab)|Mozobil (plerixafor injection)|Ferrlecit|Arixtra|Ravicti (glycerol phenylbutyrate)|Wilate (von Willebrand Factor/Coagulation Factor VIII Complex (Human)|Innohep (tinzaparin sodium) injectable|Sylvant (siltuximab)|Ruconest (C1 esterase inhibitor [recombinant])|Revlimid (lenalidomide)|Praxbind (idarucizumab)|Femara (letrozole)|Erwinaze (asparaginase Erwinia chrysanthemi)
+MEDICALEXPENSE  :  600
+INSURANCENUMBER  :  INS-477783309060460284938288
+HOSPITAL  :  Elberton Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Heath
+LASTNAME  :  Mueller
+ADDRESS  :  515 Stout Terrace
+CITY  :  Swainsboro
+EMAIL  :  heath.m@gmail.com
+PHONE  :  8217242359
+DOB  :  Sun Dec 03 05:30:00 IST 1961
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Hepatitis B
+MEDICATION  :  Solfoton|Panocaps|Actigall|Cholbam|Lipram UL|Lapase|Pangestyme EC|Viokace|Avandia|ursodiol|Pancrecarb MS|azathioprine
+MEDICALEXPENSE  :  87000
+INSURANCENUMBER  :  INS-477783309060460284938288
+HOSPITAL  :  Alpharetta Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Heath
+LASTNAME  :  Mueller
+ADDRESS  :  515 Stout Terrace
+CITY  :  Swainsboro
+EMAIL  :  heath.m@gmail.com
+PHONE  :  8217242359
+DOB  :  Sun Dec 03 05:30:00 IST 1961
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Neurogenic Bladder
+MEDICATION  :  Renvela (sevelamer carbonate)|Cefazolin and Dextrose USP|Feraheme (ferumoxytol)|Monurol|Eulexin (flutamide)|Prograf|Elmiron (pentosan polysulfate sodium)|Myrbetriq (mirabegron)|Viadur (leuprolide acetate implant)
+MEDICALEXPENSE  :  74900
+INSURANCENUMBER  :  INS-477783309060460284938288
+HOSPITAL  :  Canton Health Care
+HOSPITALTYPE  :  General Hospital

@@ -1,0 +1,59 @@
+FIRSTNAME  :  Marie
+LASTNAME  :  Salas
+ADDRESS  :  506 Parkview Way
+CITY  :  Lagrange
+EMAIL  :  marie.s@gmail.com
+PHONE  :  8762411518
+DOB  :  Tue May 06 05:30:00 IST 1958
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Neurogenic Bladder
+MEDICATION  :  Carbaglu (carglumic acid)|Afinitor (everolimus)|Voraxaze (glucarpidase)
+MEDICALEXPENSE  :  63300
+INSURANCENUMBER  :  INS-992197779826441831315339
+HOSPITAL  :  Baxley Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Marie
+LASTNAME  :  Salas
+ADDRESS  :  506 Parkview Way
+CITY  :  Lagrange
+EMAIL  :  marie.s@gmail.com
+PHONE  :  8762411518
+DOB  :  Tue May 06 05:30:00 IST 1958
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Regional Ileitis
+MEDICATION  :  Carafate oral|Pepcid Complete oral|Antacid Extra-Strength oral|famotidine oral|Ri-Mag oral|Antacid Extra Strength (magnesium carb-aluminum hydrox) oral
+MEDICALEXPENSE  :  1600
+INSURANCENUMBER  :  INS-992197779826441831315339
+HOSPITAL  :  Manchester Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Marie
+LASTNAME  :  Salas
+ADDRESS  :  506 Parkview Way
+CITY  :  Lagrange
+EMAIL  :  marie.s@gmail.com
+PHONE  :  8762411518
+DOB  :  Tue May 06 05:30:00 IST 1958
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Painful Bladder Syndrome
+MEDICATION  :  Torisel (temsirolimus)|Prograf|Zoladex (10.8 mg goserelin acetate implant)|Harvoni (ledipasvir and sofosbuvir)|Fabrazyme (agalsidase beta)|Oxytrol (oxybutynin transdermal system)|Provenge (sipuleucel-T)|Rapamune (sirolimus) Tablets|Sanctura (trospium chloride)|Cipro (ciprofloxacin HCl)|Eulexin (flutamide)|Myrbetriq (mirabegron)|Ditropan XL (oxybutynin chloride)|Invanz|Avastin (bevacizumab)|Injectafer (ferric carboxymaltose injection)|Dutasteride|Mesnex
+MEDICALEXPENSE  :  500
+INSURANCENUMBER  :  INS-992197779826441831315339
+HOSPITAL  :  Buchanan Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Marie
+LASTNAME  :  Salas
+ADDRESS  :  506 Parkview Way
+CITY  :  Lagrange
+EMAIL  :  marie.s@gmail.com
+PHONE  :  8762411518
+DOB  :  Tue May 06 05:30:00 IST 1958
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Angiotensin-converting Enzyme (ACE) Inhibitors
+MEDICATION  :  calcitriol (oral only)|docusate sodium|allopurinol|iron gluconate^|gentamicin cream and ointment|sorbitol|calcium acetate|metoclopramide|verapamil|PEG 3350 with electrolytes|PEG 3350 without electrolytes|lactulose|quinapril|lisinopril|isosorbide dinitrate
+MEDICALEXPENSE  :  65700
+INSURANCENUMBER  :  INS-992197779826441831315339
+HOSPITAL  :  Dasher Hospital
+HOSPITALTYPE  :  State Funded Hospital

@@ -1,0 +1,59 @@
+FIRSTNAME  :  Angela
+LASTNAME  :  Delacruz
+ADDRESS  :  1766 Genessee Road
+CITY  :  Oxford
+EMAIL  :  angela.d265@gmail.com
+PHONE  :  7016281747
+DOB  :  Sat Dec 16 05:30:00 IST 1972
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Idiopathic Pulmonary Fibrosis
+MEDICATION  :  orciprenaline|influenza vaccine|rifampin|cefaclor|timothy grass pollen allergen extract|ketoconazole|bupropion hydrochloride|sodium cromoglycate (cromolyn sodium)|pneumococcal polysaccharide vaccine|aminophylline|crizotinib|penicillin|pneumococcal 13-valent conjugate vaccine|azithromycin|zanamivir|theophylline|glycopyrronium bromide
+MEDICALEXPENSE  :  4900
+INSURANCENUMBER  :  INS-664704528776315310559364
+HOSPITAL  :  Holly Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Angela
+LASTNAME  :  Delacruz
+ADDRESS  :  1766 Genessee Road
+CITY  :  Oxford
+EMAIL  :  angela.d265@gmail.com
+PHONE  :  7016281747
+DOB  :  Sat Dec 16 05:30:00 IST 1972
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Idiopathic Thrombocytopenic Purpura
+MEDICATION  :  Obizur [Antihemophilic Factor (Recombinant) Porcine Sequence]|Nuwiq (recombinant Factor VIII)|Lovenox (enoxaparin sodium) Injection|Gazyva (obinutuzumab)
+MEDICALEXPENSE  :  5900
+INSURANCENUMBER  :  INS-664704528776315310559364
+HOSPITAL  :  Broxton Medical Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Angela
+LASTNAME  :  Delacruz
+ADDRESS  :  1766 Genessee Road
+CITY  :  Oxford
+EMAIL  :  angela.d265@gmail.com
+PHONE  :  7016281747
+DOB  :  Sat Dec 16 05:30:00 IST 1972
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Diurnal Enuresis
+MEDICATION  :  Jalyn (dutasteride + tamsulosin)|Viadur (leuprolide acetate implant)|PhosLo|Rapamune (sirolimus) Tablets|Seprafilm|Oxytrol (oxybutynin transdermal system)|Eligard (leuprolide acetate)|UroXatral (alfuzosin HCl extended-release tablets)|Sanctura (trospium chloride)|Detrol (tolterodine tartrate)|Provenge (sipuleucel-T)|Myrbetriq (mirabegron)|Mircera (methoxy polyethylene glycol-epoetin beta)|Ditropan XL (oxybutynin chloride)|Anturol (oxybutynin) Gel|Trelstar LA (triptorelin pamoate)|Hectorol (Doxercalciferol) Injection
+MEDICALEXPENSE  :  8800
+INSURANCENUMBER  :  INS-664704528776315310559364
+HOSPITAL  :  Lithonia Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Angela
+LASTNAME  :  Delacruz
+ADDRESS  :  1766 Genessee Road
+CITY  :  Oxford
+EMAIL  :  angela.d265@gmail.com
+PHONE  :  7016281747
+DOB  :  Sat Dec 16 05:30:00 IST 1972
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Dehydration
+MEDICATION  :  aluminum hydroxide gel oral|famotidine (PF) intravenous|Gaviscon Extra Strength oral|ranitidine oral|cimetidine oral|metoclopramide oral|Ery-Tab oral|Rolaids oral|Carafate oral|E.E.S. 400 oral|omeprazole magnesium oral
+MEDICALEXPENSE  :  27400
+INSURANCENUMBER  :  INS-664704528776315310559364
+HOSPITAL  :  Pineview Health Care
+HOSPITALTYPE  :  Private Hospital

@@ -1,0 +1,44 @@
+FIRSTNAME  :  Timothy
+LASTNAME  :  Hyde
+ADDRESS  :  486 Silmore Terrace
+CITY  :  Camilla
+EMAIL  :  timothy.h376@gmail.com
+PHONE  :  8073372688
+DOB  :  Fri Jun 10 05:30:00 IST 1983
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Croup
+MEDICATION  :  etoposide|fluticasone furoate|influenza vaccine-live attenuated|montelukast sodium|cloxacillin|azithromycin|mometasone furoate|amoxicillin|cefprozil|salbutamol|gefitinib|pyrazinamide|roflumilast
+MEDICALEXPENSE  :  15600
+INSURANCENUMBER  :  INS-780351355574796812149056
+HOSPITAL  :  Mount Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Timothy
+LASTNAME  :  Hyde
+ADDRESS  :  486 Silmore Terrace
+CITY  :  Camilla
+EMAIL  :  timothy.h376@gmail.com
+PHONE  :  8073372688
+DOB  :  Fri Jun 10 05:30:00 IST 1983
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Thrombotic Thrombocytopenic Purpura
+MEDICATION  :  Soliris (eculizumab)|Revlimid (lenalidomide)|Efient (prasugrel)|Mozobil (plerixafor injection)|Iclusig (ponatinib)|Femara (letrozole)|Alprolix [Coagulation Factor IX (Recombinant) Fc Fusion Protein]|Bosulif (bosutinib)|Obizur [Antihemophilic Factor (Recombinant) Porcine Sequence]|Xarelto (rivaroxaban)|Beleodaq (belinostat)
+MEDICALEXPENSE  :  3700
+INSURANCENUMBER  :  INS-780351355574796812149056
+HOSPITAL  :  Alma Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Timothy
+LASTNAME  :  Hyde
+ADDRESS  :  486 Silmore Terrace
+CITY  :  Camilla
+EMAIL  :  timothy.h376@gmail.com
+PHONE  :  8073372688
+DOB  :  Fri Jun 10 05:30:00 IST 1983
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Kasai Procedure
+MEDICATION  :  Mintox oral|magnesium carbonate|Nexium oral|Acid Control (ranitidine) oral|Zantac oral|lansoprazole oral|dexlansoprazole oral|Zegerid oral|famotidine (PF) intravenous|Acid Reducer (ranitidine) oral|pantoprazole oral|Foaming Antacid oral
+MEDICALEXPENSE  :  12400
+INSURANCENUMBER  :  INS-780351355574796812149056
+HOSPITAL  :  Augusta Emergency Services
+HOSPITALTYPE  :  State Funded Hospital

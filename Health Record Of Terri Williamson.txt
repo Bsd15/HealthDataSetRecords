@@ -1,0 +1,44 @@
+FIRSTNAME  :  Terri
+LASTNAME  :  Williamson
+ADDRESS  :  1184 Adams Drv
+CITY  :  Odum
+EMAIL  :  terri.w312@gmail.com
+PHONE  :  7119498067
+DOB  :  Sat Feb 17 05:30:00 IST 1968
+DISEASETYPE  :  Cancer
+DISEASE  :  Nasopharyngeal carcinoma
+MEDICATION  :  Eltrombopag Olamine|TPF|Daratumumab|Zinecard (Dexrazoxane Hydrochloride)|Beleodaq (Belinostat)|Aldara (Imiquimod)|Cerubidine (Daunorubicin Hydrochloride)|Cotellic (Cobimetinib)|CAPOX|Zytiga (Abiraterone Acetate)
+MEDICALEXPENSE  :  400
+INSURANCENUMBER  :  INS-076246871324157700675216
+HOSPITAL  :  Tyrone Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Terri
+LASTNAME  :  Williamson
+ADDRESS  :  1184 Adams Drv
+CITY  :  Odum
+EMAIL  :  terri.w312@gmail.com
+PHONE  :  7119498067
+DOB  :  Sat Feb 17 05:30:00 IST 1968
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Myelodysplastic Syndromes
+MEDICATION  :  Revlimid (lenalidomide)|Neutroval (tbo-filgrastim)|Efient (prasugrel)|Gazyva (obinutuzumab)|Ravicti (glycerol phenylbutyrate)|Femara (letrozole)|Darzalex (daratumumab)|Levitra (vardenafil)|Pravachol (pravastatin sodium)|Blincyto (blinatumomab)|Zydelig (idelalisib)
+MEDICALEXPENSE  :  1500
+INSURANCENUMBER  :  INS-076246871324157700675216
+HOSPITAL  :  Ocilla Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Terri
+LASTNAME  :  Williamson
+ADDRESS  :  1184 Adams Drv
+CITY  :  Odum
+EMAIL  :  terri.w312@gmail.com
+PHONE  :  7119498067
+DOB  :  Sat Feb 17 05:30:00 IST 1968
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Multicystic Dysplastic Kidney (MCDK)
+MEDICATION  :  calcium polystyrene sulfonate|sorbitol|PEG 3350 without electrolytes|maleate|iron sucrose (restricted)^|iron sucrose (restricted)^|zinc gluconate|ferrous fumarate|clonazepam|desferoxamine|captopril|darpepoetin (Aransep) (restricted)*^
+MEDICALEXPENSE  :  24500
+INSURANCENUMBER  :  INS-076246871324157700675216
+HOSPITAL  :  Morven Health Care
+HOSPITALTYPE  :  Private Hospital

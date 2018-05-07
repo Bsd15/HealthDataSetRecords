@@ -1,0 +1,44 @@
+FIRSTNAME  :  Angie
+LASTNAME  :  Edwards
+ADDRESS  :  426 Bolen Rd
+CITY  :  Twin Peaks
+EMAIL  :  angie.e216@gmail.com
+PHONE  :  8010956680
+DOB  :  Fri Jul 20 05:30:00 IST 1979
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Aplastic Anemia 
+MEDICATION  :  Kuvan (sapropterin dihydrochloride)|Istodax (romidepsin)|Injectafer (ferric carboxymaltose injection)|Kcentra (Prothrombin Complex Concentrate)|BeneFIX (coagulation Factor IX (recombinant))|Tretten (Coagulation Factor XIII A-Subunit [Recombinant])|Revlimid (lenalidomide)|Neulasta|Imbruvica (ibrutinib)
+MEDICALEXPENSE  :  3600
+INSURANCENUMBER  :  INS-955245894710460833799128
+HOSPITAL  :  Montezuma Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Angie
+LASTNAME  :  Edwards
+ADDRESS  :  426 Bolen Rd
+CITY  :  Twin Peaks
+EMAIL  :  angie.e216@gmail.com
+PHONE  :  8010956680
+DOB  :  Fri Jul 20 05:30:00 IST 1979
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Hepatitis A
+MEDICATION  :  FUDR|Panokase|Neo-Fradin|Lapase|rosiglitazone|Ultresa|nadolol|Panocaps|colchicine|neomycin|ursodiol|Solfoton|Pangestyme|Dygase
+MEDICALEXPENSE  :  9900
+INSURANCENUMBER  :  INS-955245894710460833799128
+HOSPITAL  :  Millen Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Angie
+LASTNAME  :  Edwards
+ADDRESS  :  426 Bolen Rd
+CITY  :  Twin Peaks
+EMAIL  :  angie.e216@gmail.com
+PHONE  :  8010956680
+DOB  :  Fri Jul 20 05:30:00 IST 1979
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Continent Ileostomy
+MEDICATION  :  erythromycin oral|dextrose-fructose-sod citrate oral|Antacid Extra Strength (magnesium carb-aluminum hydrox) oral|Foaming Antacid oral|EryPed 200 oral|Alka-Seltzer Gold oral|famotidine (PF) intravenous|Rulox oral|Zegerid OTC oral|Dual Action Complete oral|Zegerid oral|Riginic oral|Zantac injection|omeprazole-sodium bicarbonate oral|Prilosec OTC oral|Phillips Milk of Magnesia oral|Acid Reducer Complete (famotidine) oral|Heartburn Prevention oral
+MEDICALEXPENSE  :  34600
+INSURANCENUMBER  :  INS-955245894710460833799128
+HOSPITAL  :  Springfield Emergency Services
+HOSPITALTYPE  :  State Funded Hospital

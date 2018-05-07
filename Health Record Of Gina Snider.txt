@@ -1,0 +1,44 @@
+FIRSTNAME  :  Gina
+LASTNAME  :  Snider
+ADDRESS  :  1642 Warner Ridge
+CITY  :  Cedartown
+EMAIL  :  gina.s@gmail.com
+PHONE  :  8922493378
+DOB  :  Fri Sep 09 05:30:00 IST 1955
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Dialyzer
+MEDICATION  :  trandolapril|nitroglycerin patch|lanthanum (restricted)***|cyanocobalamin|EMLA (restricted)*****|calcium carbonate (not Calsan brand)|iron dextran|minoxidil|sennosides|enalapril|telmisartan**|sorbitol|valsartan**
+MEDICALEXPENSE  :  61900
+INSURANCENUMBER  :  INS-837676469716377442389267
+HOSPITAL  :  Dallas Medical Services
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Gina
+LASTNAME  :  Snider
+ADDRESS  :  1642 Warner Ridge
+CITY  :  Cedartown
+EMAIL  :  gina.s@gmail.com
+PHONE  :  8922493378
+DOB  :  Fri Sep 09 05:30:00 IST 1955
+DISEASETYPE  :  Cancer
+DISEASE  :  Bronchial adenomas/carcinoids
+MEDICATION  :  Torisel (Temsirolimus)|Nexavar (Sorafenib Tosylate)|Aminolevulinic Acid|Taxotere (Docetaxel)|Recombinant Human Papillomavirus (HPV) Quadrivalent Vaccine|Eloxatin (Oxaliplatin)|Cometriq (Cabozantinib-S-Malate)|Arimidex (Anastrozole)|Paclitaxel|Ponatinib Hydrochloride|Tamoxifen Citrate|CVP|Marqibo (Vincristine Sulfate Liposome)|Necitumumab|Ifex (Ifosfamide)|Vincristine Sulfate Liposome|PAD|Tarceva (Erlotinib Hydrochloride)|Dox-SL (Doxorubicin Hydrochloride Liposome)
+MEDICALEXPENSE  :  81200
+INSURANCENUMBER  :  INS-837676469716377442389267
+HOSPITAL  :  Dalton Medical Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Gina
+LASTNAME  :  Snider
+ADDRESS  :  1642 Warner Ridge
+CITY  :  Cedartown
+EMAIL  :  gina.s@gmail.com
+PHONE  :  8922493378
+DOB  :  Fri Sep 09 05:30:00 IST 1955
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  ERCP (Endoscopic Retrograde Cholangiopancreatography)
+MEDICATION  :  Pancrecarb MS|betaine|Pancrease MT|Ultresa|Panocaps|Urso Forte|Lipram UL|Paromycin|Nexavar|Panokase|Zenpep|pioglitazone|paromomycin|Cystadane|Actigall|Dygase
+MEDICALEXPENSE  :  5800
+INSURANCENUMBER  :  INS-837676469716377442389267
+HOSPITAL  :  Mount Hospital
+HOSPITALTYPE  :  Private Hospital

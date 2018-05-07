@@ -1,0 +1,44 @@
+FIRSTNAME  :  Kristin
+LASTNAME  :  Vang
+ADDRESS  :  1057 Cooperwell Ridge
+CITY  :  Sandy Springs
+EMAIL  :  kristin.v@gmail.com
+PHONE  :  8331278799
+DOB  :  Tue Dec 01 05:30:00 IST 1964
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Pulmonary Hypertension
+MEDICATION  :  penicillin|salbutamol|beclomethasone dipropionate|cloxacillin|levofloxacin|triamcinolone acetonide|crizotinib|aclidinium bromide|fluticasone propionate|timothy grass pollen allergen extract|pneumococcal 13-valent conjugate vaccine|roflumilast|epoprostenol sodium|bupropion hydrochloride|erythromycin|pneumococcal conjugate vaccine|influenza vaccine|zafirlukast|budesonide
+MEDICALEXPENSE  :  58200
+INSURANCENUMBER  :  INS-105510966871659214205047
+HOSPITAL  :  Stone Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Kristin
+LASTNAME  :  Vang
+ADDRESS  :  1057 Cooperwell Ridge
+CITY  :  Sandy Springs
+EMAIL  :  kristin.v@gmail.com
+PHONE  :  8331278799
+DOB  :  Tue Dec 01 05:30:00 IST 1964
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Infection Bladder
+MEDICATION  :  Avastin (bevacizumab)|Sanctura (trospium chloride)|Viekira Pak (ombitasvir paritaprevir ritonavir and dasabuvir) tablets|Afinitor (everolimus)|Provenge (sipuleucel-T)|Zenapax|Jalyn (dutasteride + tamsulosin)|Cipro (ciprofloxacin HCl)|Votrient (pazopanib)|Degarelix (degarelix for injection)|Nulojix (belatacept)|Interstim Continence Control Therapy|Zortress (everolimus)|Mesnex|Omontys (peginesatide)|Proscar
+MEDICALEXPENSE  :  6800
+INSURANCENUMBER  :  INS-105510966871659214205047
+HOSPITAL  :  Fairburn Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Kristin
+LASTNAME  :  Vang
+ADDRESS  :  1057 Cooperwell Ridge
+CITY  :  Sandy Springs
+EMAIL  :  kristin.v@gmail.com
+PHONE  :  8331278799
+DOB  :  Tue Dec 01 05:30:00 IST 1964
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Hepatitis C
+MEDICATION  :  Pancreaze|Actigall|Pancrease MT|Neo-Tab|sorafenib|floxuridine|Nexavar|Actos|Cholbam|ursodiol|Pangestyme EC|Dygase|Viokace|Neo-Fradin|Avandia|Urso|Humatin|Pertzye|propranolol
+MEDICALEXPENSE  :  77700
+INSURANCENUMBER  :  INS-105510966871659214205047
+HOSPITAL  :  Whitmarsh Health Care
+HOSPITALTYPE  :  General Hospital

@@ -1,0 +1,59 @@
+FIRSTNAME  :  Earl
+LASTNAME  :  Osborne
+ADDRESS  :  1229 Eller Blvd
+CITY  :  Upton
+EMAIL  :  earl.o@gmail.com
+PHONE  :  7730895378
+DOB  :  Sat Dec 05 05:30:00 IST 1970
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Childhood Nephrotic Syndrome
+MEDICATION  :  aluminum hydroxide|cholecalciferol (pediatrics only)|valsartan**|hydroxyzine|sodium polystyrene sulfonate|ferrous gluconate|furosemide|quinapril
+MEDICALEXPENSE  :  3700
+INSURANCENUMBER  :  INS-344123333029684578925972
+HOSPITAL  :  Guyton Medical Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Earl
+LASTNAME  :  Osborne
+ADDRESS  :  1229 Eller Blvd
+CITY  :  Upton
+EMAIL  :  earl.o@gmail.com
+PHONE  :  7730895378
+DOB  :  Sat Dec 05 05:30:00 IST 1970
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Infection Bladder
+MEDICATION  :  Viadur (leuprolide acetate implant)|Soliris (eculizumab)|Myrbetriq (mirabegron)|Interstim Continence Control Therapy|Eulexin (flutamide)|Voraxaze (glucarpidase)|RenaGelRenagel (sevelamer hydrochloride)|Afinitor (everolimus)
+MEDICALEXPENSE  :  2400
+INSURANCENUMBER  :  INS-344123333029684578925972
+HOSPITAL  :  Mount Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Earl
+LASTNAME  :  Osborne
+ADDRESS  :  1229 Eller Blvd
+CITY  :  Upton
+EMAIL  :  earl.o@gmail.com
+PHONE  :  7730895378
+DOB  :  Sat Dec 05 05:30:00 IST 1970
+DISEASETYPE  :  Cancer
+DISEASE  :  Hepatocellular (liver) cancer
+MEDICATION  :  HPV Quadrivalent Vaccine Recombinant|Cytarabine|FOLFIRI|Methotrexate|Iclusig (Ponatinib Hydrochloride)|Marqibo (Vincristine Sulfate Liposome)|Vectibix (Panitumumab)|Imlygic (Talimogene Laherparepvec)|Tykerb (Lapatinib Ditosylate)|Etoposide|Sprycel (Dasatinib)|Zolinza (Vorinostat)|Dacogen (Decitabine)|Perjeta (Pertuzumab)|Paraplatin (Carboplatin)|Eltrombopag Olamine|Asparaginase Erwinia chrysanthemi
+MEDICALEXPENSE  :  700
+INSURANCENUMBER  :  INS-344123333029684578925972
+HOSPITAL  :  Alma Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Earl
+LASTNAME  :  Osborne
+ADDRESS  :  1229 Eller Blvd
+CITY  :  Upton
+EMAIL  :  earl.o@gmail.com
+PHONE  :  7730895378
+DOB  :  Sat Dec 05 05:30:00 IST 1970
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Idiopathic Pulmonary Fibrosis
+MEDICATION  :  budesonide|attenuated tubercle bacillus|vilanterol trifenatate|fluticasone propionate|pneumococcal polysaccharide vaccine|influenza vaccine-live attenuated|alpha 1-antitrypsin|short ragweed ( Ambrosia artemisiifolia ) allergen extract|Indacaterol maleate|zanamivir|salmeterol xinafoate
+MEDICALEXPENSE  :  2500
+INSURANCENUMBER  :  INS-344123333029684578925972
+HOSPITAL  :  Ludowici Health Care
+HOSPITALTYPE  :  Private Hospital

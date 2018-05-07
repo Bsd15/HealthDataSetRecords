@@ -1,0 +1,44 @@
+FIRSTNAME  :  Brianna
+LASTNAME  :  Joseph
+ADDRESS  :  1545 Clarence Place
+CITY  :  Hamilton
+EMAIL  :  brianna.j@gmail.com
+PHONE  :  7924159053
+DOB  :  Sat May 15 05:30:00 IST 1982
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Hemochromatosis
+MEDICATION  :  Gastrocrom Oral Concentrate (cromolyn sodium)|Actonel|Rituxan|Nuwiq (recombinant Factor VIII)|Venofer (iron sucrose injection)|Reyataz (atazanavir sulfate)|Arixtra|Aggrenox|Alprolix [Coagulation Factor IX (Recombinant) Fc Fusion Protein]|Lovenox (enoxaparin sodium) Injection|Nascobal Gel (Cyanocobalamin USP)|Jakafi (ruxolitinib)|Blincyto (blinatumomab)|Agrylin (anagrelide HCL)|Kogenate FS (Antihemophilic Factor Recombinant)|Rixubis (Coagulation Factor IX (Recombinant)]|Ruconest (C1 esterase inhibitor [recombinant])|Marqibo (vinCRIStine sulfate LIPOSOME injection)
+MEDICALEXPENSE  :  33200
+INSURANCENUMBER  :  INS-653943827683192379157133
+HOSPITAL  :  Snellville Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Brianna
+LASTNAME  :  Joseph
+ADDRESS  :  1545 Clarence Place
+CITY  :  Hamilton
+EMAIL  :  brianna.j@gmail.com
+PHONE  :  7924159053
+DOB  :  Sat May 15 05:30:00 IST 1982
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Appendicitis
+MEDICATION  :  Zegerid OTC oral|Ri-Mag oral|sucralfate oral|Pedia-Lax oral|omeprazole oral|Prilosec OTC oral|Metozolv ODT oral
+MEDICALEXPENSE  :  49600
+INSURANCENUMBER  :  INS-653943827683192379157133
+HOSPITAL  :  Villa Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Brianna
+LASTNAME  :  Joseph
+ADDRESS  :  1545 Clarence Place
+CITY  :  Hamilton
+EMAIL  :  brianna.j@gmail.com
+PHONE  :  7924159053
+DOB  :  Sat May 15 05:30:00 IST 1982
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Viral Hepatitis
+MEDICATION  :  pancrelipase|Pangestyme EC|Cholbam|propranolol|pioglitazone|Actos|azathioprine|Urso|Urso|Viokace|Lipram UL|Actigall
+MEDICALEXPENSE  :  6600
+INSURANCENUMBER  :  INS-653943827683192379157133
+HOSPITAL  :  Moniac Emergency Services
+HOSPITALTYPE  :  State Funded Hospital

@@ -1,0 +1,59 @@
+FIRSTNAME  :  Brittany
+LASTNAME  :  Rivers
+ADDRESS  :  1154 Shoop Ave
+CITY  :  Alma
+EMAIL  :  brittany.r@gmail.com
+PHONE  :  7788821914
+DOB  :  Fri Oct 10 05:30:00 IST 1969
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Diabetes and Kidney Disease
+MEDICATION  :  Calcium Supplements|cholecalciferol (pediatrics only)
+MEDICALEXPENSE  :  99500
+INSURANCENUMBER  :  INS-994511345595442102262533
+HOSPITAL  :  Mcintosh Emergency Services
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Brittany
+LASTNAME  :  Rivers
+ADDRESS  :  1154 Shoop Ave
+CITY  :  Alma
+EMAIL  :  brittany.r@gmail.com
+PHONE  :  7788821914
+DOB  :  Fri Oct 10 05:30:00 IST 1969
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Renal Transplantation
+MEDICATION  :  lanthanum (restricted)***|cinacalcet (restricted)****|aluminum hydroxide|desferoxamine|alphacalcidol|ranitidine hydrochloride|calcium acetate|sorbitol|darpepoetin (Aransep) (restricted)*^|bisopolol|ferrous gluconate|amitriptyline|trandolapril|gabapentin|allopurinol|iron dextran|fluconazole|docusate sodium
+MEDICALEXPENSE  :  8200
+INSURANCENUMBER  :  INS-994511345595442102262533
+HOSPITAL  :  Baldwin Medical Services
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Brittany
+LASTNAME  :  Rivers
+ADDRESS  :  1154 Shoop Ave
+CITY  :  Alma
+EMAIL  :  brittany.r@gmail.com
+PHONE  :  7788821914
+DOB  :  Fri Oct 10 05:30:00 IST 1969
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Croup
+MEDICATION  :  fluticasone propionate
+MEDICALEXPENSE  :  5600
+INSURANCENUMBER  :  INS-994511345595442102262533
+HOSPITAL  :  Hagan Hospital
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Brittany
+LASTNAME  :  Rivers
+ADDRESS  :  1154 Shoop Ave
+CITY  :  Alma
+EMAIL  :  brittany.r@gmail.com
+PHONE  :  7788821914
+DOB  :  Fri Oct 10 05:30:00 IST 1969
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Hemochromatosis
+MEDICATION  :  Lovenox (enoxaparin sodium) Injection|Soliris (eculizumab)|Argatroban Injection
+MEDICALEXPENSE  :  8400
+INSURANCENUMBER  :  INS-994511345595442102262533
+HOSPITAL  :  White Health Care
+HOSPITALTYPE  :  State Funded Hospital

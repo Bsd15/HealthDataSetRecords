@@ -1,0 +1,44 @@
+FIRSTNAME  :  Richard
+LASTNAME  :  Hanson
+ADDRESS  :  701 Merrick Ln
+CITY  :  Royston
+EMAIL  :  richard.h@gmail.com
+PHONE  :  8233169549
+DOB  :  Thu Sep 13 05:30:00 IST 1984
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Lactose Intolerance
+MEDICATION  :  AcipHex Sprinkle oral|Milk Of Magnesia Concentrated oral|magnesium carbonate|sucralfate oral|Antacid Extra Strength (magnesium carb-aluminum hydrox) oral|Heartburn Relief (ranitidine) oral|Nauzene oral|Heartburn Antacid oral|Zegerid OTC oral|PCE oral|Nexium 24HR oral|Dexilant oral|Heartburn Relief oral|Zantac Maximum Strength oral|famotidine (PF) in NaCl (iso-osmotic) intravenous
+MEDICALEXPENSE  :  52100
+INSURANCENUMBER  :  INS-978603309136780716734983
+HOSPITAL  :  Austell Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Richard
+LASTNAME  :  Hanson
+ADDRESS  :  701 Merrick Ln
+CITY  :  Royston
+EMAIL  :  richard.h@gmail.com
+PHONE  :  8233169549
+DOB  :  Thu Sep 13 05:30:00 IST 1984
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Polycystic Kidney Disease
+MEDICATION  :  lanthanum (restricted)***|nortryptyline|calcitriol (oral only)|calcium acetate|erythropoietin (Eprex) [restricted]*^|gentamicin cream and ointment|valsartan**|10% uremol in glaxal base|hydralazine|acebutolol
+MEDICALEXPENSE  :  7100
+INSURANCENUMBER  :  INS-978603309136780716734983
+HOSPITAL  :  New Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Richard
+LASTNAME  :  Hanson
+ADDRESS  :  701 Merrick Ln
+CITY  :  Royston
+EMAIL  :  richard.h@gmail.com
+PHONE  :  8233169549
+DOB  :  Thu Sep 13 05:30:00 IST 1984
+DISEASETYPE  :  Cancer
+DISEASE  :  Hypothalamic and visual pathway glioma childhood
+MEDICATION  :  Dexrazoxane Hydrochloride|Keytruda (Pembrolizumab)|Mitoxantrone Hydrochloride|Olaparib|Palbociclib|Palifermin|Cobimetinib|Ixabepilone
+MEDICALEXPENSE  :  10800
+INSURANCENUMBER  :  INS-978603309136780716734983
+HOSPITAL  :  Attapulgus Hospital
+HOSPITALTYPE  :  State Funded Hospital

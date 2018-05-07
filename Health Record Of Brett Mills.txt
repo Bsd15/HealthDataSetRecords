@@ -1,0 +1,44 @@
+FIRSTNAME  :  Brett
+LASTNAME  :  Mills
+ADDRESS  :  1576 Brighton Ridge
+CITY  :  Egypt
+EMAIL  :  brett.m@gmail.com
+PHONE  :  8911016097
+DOB  :  Sun Jun 08 05:30:00 IST 1980
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Idiopathic Thrombocytopenic Purpura
+MEDICATION  :  Argatroban Injection|Ferrlecit|Bosulif (bosutinib)|Dacogen (decitabine)|Feraheme (ferumoxytol)|Darzalex (daratumumab)|Mircera (methoxy polyethylene glycol-epoetin beta)|Leukine (sargramostim)|Fragmin
+MEDICALEXPENSE  :  62600
+INSURANCENUMBER  :  INS-360943527721688534281140
+HOSPITAL  :  Folkston Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Brett
+LASTNAME  :  Mills
+ADDRESS  :  1576 Brighton Ridge
+CITY  :  Egypt
+EMAIL  :  brett.m@gmail.com
+PHONE  :  8911016097
+DOB  :  Sun Jun 08 05:30:00 IST 1980
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Urinary Retention
+MEDICATION  :  Auryxia (Ferric citrate)|Toviaz (fesoterodine fumarate)|Nascobal Gel (Cyanocobalamin USP)|Visipaque (iodixanol)|Harvoni (ledipasvir and sofosbuvir)|Stendra (avanafil)|Omontys (peginesatide)|Trelstar LA (triptorelin pamoate)|Cipro (ciprofloxacin HCl)|Trelstar Depot (triptorelin pamoate)|Detrol (tolterodine tartrate)|Hectorol (Doxercalciferol) Injection|Cefazolin and Dextrose USP|Jalyn (dutasteride + tamsulosin)|Levaquin|RenaGelRenagel (sevelamer hydrochloride)|Afinitor (everolimus)|Fabrazyme (agalsidase beta)
+MEDICALEXPENSE  :  4900
+INSURANCENUMBER  :  INS-360943527721688534281140
+HOSPITAL  :  Stillwell Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Brett
+LASTNAME  :  Mills
+ADDRESS  :  1576 Brighton Ridge
+CITY  :  Egypt
+EMAIL  :  brett.m@gmail.com
+PHONE  :  8911016097
+DOB  :  Sun Jun 08 05:30:00 IST 1980
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Digestive Diseases Statistics for the United States
+MEDICATION  :  Actigall|cholic acid|ursodiol|paromomycin
+MEDICALEXPENSE  :  7700
+INSURANCENUMBER  :  INS-360943527721688534281140
+HOSPITAL  :  Irwinville Health Care
+HOSPITALTYPE  :  General Hospital

@@ -1,0 +1,44 @@
+FIRSTNAME  :  Stanley
+LASTNAME  :  Padilla
+ADDRESS  :  1745 Samuel Ridge
+CITY  :  Lanier
+EMAIL  :  stanley.p@gmail.com
+PHONE  :  8732200360
+DOB  :  Mon May 06 05:30:00 IST 1968
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Blood Urea Nitrogen (BUN)
+MEDICATION  :  metoprolol|sorbitol|ferrous sulfate|telmisartan**|erythropoietin (Eprex) [restricted]*^|calcium carbonate (not Calsan brand)|losartan potassium**|calcium acetate|amitriptyline|aluminum hydroxide|aluminum hydroxide|valsartan**|sodium bicarbonate
+MEDICALEXPENSE  :  7100
+INSURANCENUMBER  :  INS-686739625915648744976790
+HOSPITAL  :  Dasher Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Stanley
+LASTNAME  :  Padilla
+ADDRESS  :  1745 Samuel Ridge
+CITY  :  Lanier
+EMAIL  :  stanley.p@gmail.com
+PHONE  :  8732200360
+DOB  :  Mon May 06 05:30:00 IST 1968
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  eGFR
+MEDICATION  :  iron gluconate^|zinc gluconate|candesartan**|sodium bicarbonate|alphacalcidol|iron sucrose (restricted)^|verapamil|iron gluconate^|calcium carbonate (not Calsan brand)|carbamazepine|atenolol
+MEDICALEXPENSE  :  60600
+INSURANCENUMBER  :  INS-686739625915648744976790
+HOSPITAL  :  Statenville Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Stanley
+LASTNAME  :  Padilla
+ADDRESS  :  1745 Samuel Ridge
+CITY  :  Lanier
+EMAIL  :  stanley.p@gmail.com
+PHONE  :  8732200360
+DOB  :  Mon May 06 05:30:00 IST 1968
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Hemochromatosis
+MEDICATION  :  Alprolix [Coagulation Factor IX (Recombinant) Fc Fusion Protein]|Kovaltry [Antihemophilic Factor (Recombinant)]|Zydelig (idelalisib)|Kogenate FS (Antihemophilic Factor Recombinant)|Bosulif (bosutinib)|Imbruvica (ibrutinib)|BeneFIX (coagulation Factor IX (recombinant))|Dacogen (decitabine)|Veltassa (patiromer)|Neutroval (tbo-filgrastim)|Arzerra (ofatumumab)|Elitek (rasburicase)|Synribo (omacetaxine mepesuccinate)|Glucagon
+MEDICALEXPENSE  :  6200
+INSURANCENUMBER  :  INS-686739625915648744976790
+HOSPITAL  :  East Health Care
+HOSPITALTYPE  :  State Funded Hospital

@@ -1,0 +1,59 @@
+FIRSTNAME  :  Dennis
+LASTNAME  :  Camacho
+ADDRESS  :  723 Huey Road
+CITY  :  Waynesboro
+EMAIL  :  dennis.c@gmail.com
+PHONE  :  7937152298
+DOB  :  Thu Mar 27 05:30:00 IST 1980
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Thrombotic Thrombocytopenic Purpura
+MEDICATION  :  Arzerra (ofatumumab)|Darzalex (daratumumab)|Natpara (parathyroid hormone)|Praxbind (idarucizumab)|Kogenate FS (Antihemophilic Factor Recombinant)|Mozobil (plerixafor injection)|Ferriprox (deferiprone)|Leukine (sargramostim)|Glyburide Tablets
+MEDICALEXPENSE  :  7900
+INSURANCENUMBER  :  INS-125008586086864206883654
+HOSPITAL  :  Blackshear Medical Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Dennis
+LASTNAME  :  Camacho
+ADDRESS  :  723 Huey Road
+CITY  :  Waynesboro
+EMAIL  :  dennis.c@gmail.com
+PHONE  :  7937152298
+DOB  :  Thu Mar 27 05:30:00 IST 1980
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Chronic Liver and Cirrhosis
+MEDICATION  :  betaine|Ultrase|propranolol|Humatin|floxuridine|pioglitazone|ursodiol|Urso
+MEDICALEXPENSE  :  58000
+INSURANCENUMBER  :  INS-125008586086864206883654
+HOSPITAL  :  Manassas Medical Services
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Dennis
+LASTNAME  :  Camacho
+ADDRESS  :  723 Huey Road
+CITY  :  Waynesboro
+EMAIL  :  dennis.c@gmail.com
+PHONE  :  7937152298
+DOB  :  Thu Mar 27 05:30:00 IST 1980
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Iron-Deficiency Anemia
+MEDICATION  :  Leukine (sargramostim)|Femara (letrozole)|Injectafer (ferric carboxymaltose injection)|Soliris (eculizumab)|Mircera (methoxy polyethylene glycol-epoetin beta)|Nplate (romiplostim)|AlphaNine SD Coagulation Factor IX (Human)|Ruconest (C1 esterase inhibitor [recombinant])|Omontys (peginesatide)|Neumega|Ravicti (glycerol phenylbutyrate)|Ferrlecit|Reyataz (atazanavir sulfate)|Obizur [Antihemophilic Factor (Recombinant) Porcine Sequence]|Zontivity (vorapaxar)|Samsca (tolvaptan)|Natpara (parathyroid hormone)
+MEDICALEXPENSE  :  78300
+INSURANCENUMBER  :  INS-125008586086864206883654
+HOSPITAL  :  Stilson Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Dennis
+LASTNAME  :  Camacho
+ADDRESS  :  723 Huey Road
+CITY  :  Waynesboro
+EMAIL  :  dennis.c@gmail.com
+PHONE  :  7937152298
+DOB  :  Thu Mar 27 05:30:00 IST 1980
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Cystitis
+MEDICATION  :  Envarsus XR (tacrolimus extended-release)|Harvoni (ledipasvir and sofosbuvir)|Jalyn (dutasteride + tamsulosin)|Anturol (oxybutynin) Gel|Zenapax|PhosLo|Procysbi (cysteamine bitartrate)
+MEDICALEXPENSE  :  2000
+INSURANCENUMBER  :  INS-125008586086864206883654
+HOSPITAL  :  Unionville Hospital
+HOSPITALTYPE  :  General Hospital

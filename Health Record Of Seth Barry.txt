@@ -1,0 +1,44 @@
+FIRSTNAME  :  Seth
+LASTNAME  :  Barry
+ADDRESS  :  1006 Gardenway Path
+CITY  :  Lookout Mountain
+EMAIL  :  seth.b1481@gmail.com
+PHONE  :  7826249013
+DOB  :  Wed Jan 30 05:30:00 IST 1980
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Pulmonary Embolism
+MEDICATION  :  Beleodaq (belinostat)|Rituxan|Zontivity (vorapaxar)|Makena (hydroxyprogesterone caproate injection)|Iclusig (ponatinib)|Gazyva (obinutuzumab)|Bexxar|Arzerra (ofatumumab)|Erwinaze (asparaginase Erwinia chrysanthemi)|Argatroban Injection|BeneFIX (coagulation Factor IX (recombinant))|Pravachol (pravastatin sodium)|Rixubis (Coagulation Factor IX (Recombinant)]|Veltassa (patiromer)
+MEDICALEXPENSE  :  1300
+INSURANCENUMBER  :  INS-310782683761682396861137
+HOSPITAL  :  Nashville Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Seth
+LASTNAME  :  Barry
+ADDRESS  :  1006 Gardenway Path
+CITY  :  Lookout Mountain
+EMAIL  :  seth.b1481@gmail.com
+PHONE  :  7826249013
+DOB  :  Wed Jan 30 05:30:00 IST 1980
+DISEASETYPE  :  Cancer
+DISEASE  :  Small intestine cancer
+MEDICATION  :  Doxorubicin Hydrochloride|Ontak (Denileukin Diftitox)|Ondansetron Hydrochloride|Abraxane (Paclitaxel Albumin-stabilized Nanoparticle Formulation)|Erivedge (Vismodegib)|Vemurafenib|Clofarabine|Synovir (Thalidomide)|Zykadia (Ceritinib)
+MEDICALEXPENSE  :  12400
+INSURANCENUMBER  :  INS-310782683761682396861137
+HOSPITAL  :  Allenhurst Hospital
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Seth
+LASTNAME  :  Barry
+ADDRESS  :  1006 Gardenway Path
+CITY  :  Lookout Mountain
+EMAIL  :  seth.b1481@gmail.com
+PHONE  :  7826249013
+DOB  :  Wed Jan 30 05:30:00 IST 1980
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Pylonephritis: Kidney Infection
+MEDICATION  :  Afinitor (everolimus)|Nascobal Gel (Cyanocobalamin USP)|Mircera (methoxy polyethylene glycol-epoetin beta)|Interstim Continence Control Therapy|Zenapax|Eulexin (flutamide)|Renagel (sevelamer hydrochloride)|Procysbi (cysteamine bitartrate)|Avastin (bevacizumab)|Jevtana (cabazitaxel)|Zurampic (lesinurad)|Ditropan XL (oxybutynin chloride)|Stendra (avanafil)|Torisel (temsirolimus)|Carbaglu (carglumic acid)|Rapamune (sirolimus) Tablets|Renvela (sevelamer carbonate)|Vesicare (solifenacin succinate)
+MEDICALEXPENSE  :  48400
+INSURANCENUMBER  :  INS-310782683761682396861137
+HOSPITAL  :  Nahunta Health Care
+HOSPITALTYPE  :  General Hospital

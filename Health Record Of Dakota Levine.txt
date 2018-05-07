@@ -1,0 +1,44 @@
+FIRSTNAME  :  Dakota
+LASTNAME  :  Levine
+ADDRESS  :  552 Graffis Ridge
+CITY  :  Eastman
+EMAIL  :  dakota.l1063@gmail.com
+PHONE  :  7424670213
+DOB  :  Thu May 09 05:30:00 IST 1974
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Helping Diabetes Educators Care for Patients with Kidney Disease
+MEDICATION  :  Replavite/Renavite|calcium acetate|quinine|lanthanum (restricted)***|docusate sodium|Vitamin D3|ferrous fumarate|chlorhexidine|ASA (enteric-coated; all strengths)|calcium acetate|sodium bicarbonate|hydroxyzine|iron dextran^|ferrous gluconate|zinc gluconate|clonazepam|sodium polystyrene sulfonate
+MEDICALEXPENSE  :  9600
+INSURANCENUMBER  :  INS-201911548518829778007570
+HOSPITAL  :  Twin Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Dakota
+LASTNAME  :  Levine
+ADDRESS  :  552 Graffis Ridge
+CITY  :  Eastman
+EMAIL  :  dakota.l1063@gmail.com
+PHONE  :  7424670213
+DOB  :  Thu May 09 05:30:00 IST 1974
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Liver Transplantation
+MEDICATION  :  Alka-Seltzer Gold oral|Prilosec OTC oral|metoclopramide oral|famotidine-Ca carb-mag hydrox oral|Nauzene oral|potassium bicarbonate-sodium bicarbonate-citric acid oral|Pepcid Complete oral|erythromycin stearate oral|omeprazole magnesium oral|Aciphex oral
+MEDICALEXPENSE  :  22700
+INSURANCENUMBER  :  INS-201911548518829778007570
+HOSPITAL  :  Rincon Emergency Services
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Dakota
+LASTNAME  :  Levine
+ADDRESS  :  552 Graffis Ridge
+CITY  :  Eastman
+EMAIL  :  dakota.l1063@gmail.com
+PHONE  :  7424670213
+DOB  :  Thu May 09 05:30:00 IST 1974
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Pandemic Flu
+MEDICATION  :  fluticasone furoate|doxycycline|terbutaline sulfate|varenicline|Indacaterol maleate|amoxicillin|umeclidinium bromide|penicillin|oseltamivir
+MEDICALEXPENSE  :  3800
+INSURANCENUMBER  :  INS-201911548518829778007570
+HOSPITAL  :  Hogansville Health Care
+HOSPITALTYPE  :  Private Hospital

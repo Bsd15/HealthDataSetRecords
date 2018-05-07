@@ -1,0 +1,44 @@
+FIRSTNAME  :  Unborn
+LASTNAME  :  Michael
+ADDRESS  :  721 Harlan Run
+CITY  :  Sunbury
+EMAIL  :  unborn.m@gmail.com
+PHONE  :  8821176740
+DOB  :  Fri Dec 26 05:30:00 IST 1975
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Idiopathic Thrombocytopenic Purpura
+MEDICATION  :  Feraheme (ferumoxytol)|Elelyso (taliglucerase alfa)|Kyprolis (carfilzomib)|Istodax (romidepsin)|Refludan|Efient (prasugrel)|Alprolix [Coagulation Factor IX (Recombinant) Fc Fusion Protein]|Renagel (sevelamer hydrochloride)|Atryn (antithrombin recombinant lyophilized powder for reconstitution)|Folotyn (pralatrexate injection)
+MEDICALEXPENSE  :  8600
+INSURANCENUMBER  :  INS-582029029052629820219106
+HOSPITAL  :  Upton Emergency Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Unborn
+LASTNAME  :  Michael
+ADDRESS  :  721 Harlan Run
+CITY  :  Sunbury
+EMAIL  :  unborn.m@gmail.com
+PHONE  :  8821176740
+DOB  :  Fri Dec 26 05:30:00 IST 1975
+DISEASETYPE  :  Cancer
+DISEASE  :  Gastric carcinoid
+MEDICATION  :  Portrazza (Necitumumab)|Doxorubicin Hydrochloride Liposome|Zykadia (Ceritinib)|Irinotecan Hydrochloride|Mozobil (Plerixafor)|Amboclorin (Chlorambucil)|Fludara (Fludarabine Phosphate)|Ponatinib Hydrochloride|HPV Bivalent Vaccine Recombinant|Erivedge (Vismodegib)|Viadur (Leuprolide Acetate)|Uridine Triacetate|Alecensa (Alectinib)|Sunitinib Malate|Aminolevulinic Acid|Prednisone|Gemcitabine Hydrochloride|Gefitinib
+MEDICALEXPENSE  :  70000
+INSURANCENUMBER  :  INS-582029029052629820219106
+HOSPITAL  :  Athens Emergency Services
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Unborn
+LASTNAME  :  Michael
+ADDRESS  :  721 Harlan Run
+CITY  :  Sunbury
+EMAIL  :  unborn.m@gmail.com
+PHONE  :  8821176740
+DOB  :  Fri Dec 26 05:30:00 IST 1975
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Diarrhea
+MEDICATION  :  Antacid Extra Strength (magnesium carb-aluminum hydrox) oral|Pepcid AC oral|Protonix oral|cimetidine oral
+MEDICALEXPENSE  :  75500
+INSURANCENUMBER  :  INS-582029029052629820219106
+HOSPITAL  :  Stockbridge Health Care
+HOSPITALTYPE  :  Private Hospital

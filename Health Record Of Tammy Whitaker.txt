@@ -1,0 +1,44 @@
+FIRSTNAME  :  Tammy
+LASTNAME  :  Whitaker
+ADDRESS  :  568 Samuel Drive
+CITY  :  Arlington
+EMAIL  :  tammy.w@gmail.com
+PHONE  :  7766380735
+DOB  :  Tue Jun 26 05:30:00 IST 1984
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Stomach Flu
+MEDICATION  :  Acid Gone Antacid Extra Strength oral|Zantac oral|PCE oral|Ri-Mox oral|metoclopramide oral|Heartburn Relief oral|EryPed 200 oral|aluminum hydroxide gel oral|erythromycin ethylsuccinate oral|aluminum-magnesium hydroxide oral|Protonix intravenous|Riginic oral|famotidine (PF) in NaCl (iso-osmotic) intravenous|Milk of Magnesia oral|Foaming Antacid oral|Antacid oral|Rulox oral|Acid Control (ranitidine) oral
+MEDICALEXPENSE  :  7600
+INSURANCENUMBER  :  INS-944107790485285987927772
+HOSPITAL  :  Tybee Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Tammy
+LASTNAME  :  Whitaker
+ADDRESS  :  568 Samuel Drive
+CITY  :  Arlington
+EMAIL  :  tammy.w@gmail.com
+PHONE  :  7766380735
+DOB  :  Tue Jun 26 05:30:00 IST 1984
+DISEASETYPE  :  Cancer
+DISEASE  :  Leukaemia acute lymphoblastic (also called acute lymphocytic leukaemia)
+MEDICATION  :  Sylatron (Peginterferon Alfa-2b)|Alkeran Tablets (Melphalan)|Bicalutamide|Interleukin-2 (Aldesleukin)|Carfilzomib|Mitoxantrone Hydrochloride|Lonsurf (Trifluridine and Tipiracil Hydrochloride)|Taxotere (Docetaxel)|ABVE|Temsirolimus|ABVE-PC|Abiraterone Acetate|Methotrexate|Fluorouracil--Topical
+MEDICALEXPENSE  :  7400
+INSURANCENUMBER  :  INS-944107790485285987927772
+HOSPITAL  :  Cobbtown Emergency Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Tammy
+LASTNAME  :  Whitaker
+ADDRESS  :  568 Samuel Drive
+CITY  :  Arlington
+EMAIL  :  tammy.w@gmail.com
+PHONE  :  7766380735
+DOB  :  Tue Jun 26 05:30:00 IST 1984
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Renovascular Hypertension (RVH)
+MEDICATION  :  aluminum hydroxide|amitriptyline|alphacalcidol|Phosphate Binders|nortryptyline|furosemide|valsartan**|allopurinol|clonidine hydrochloride|maleate|atenolol|fluconazole|clonazepam|ramipril|iron sucrose (restricted)^|Maxilene (restricted)*****
+MEDICALEXPENSE  :  7400
+INSURANCENUMBER  :  INS-944107790485285987927772
+HOSPITAL  :  Fort Health Care
+HOSPITALTYPE  :  General Hospital

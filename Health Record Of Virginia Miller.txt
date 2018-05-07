@@ -1,0 +1,59 @@
+FIRSTNAME  :  Virginia
+LASTNAME  :  Miller
+ADDRESS  :  1802 Steele Road
+CITY  :  Claxton
+EMAIL  :  virginia.m@gmail.com
+PHONE  :  8196342895
+DOB  :  Sat Mar 07 05:30:00 IST 1959
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Respiratory Syncytial Virus (RSV)
+MEDICATION  :  penicillin|fluticasone furoate|gefitinib|cefadroxil|fluconazole|varenicline|crizotinib|beclomethasone dipropionate|influenza vaccine-live attenuated|cefuroxime axetil|cefixime|erythromycin|flunisolide|isoniazid|salbutamol
+MEDICALEXPENSE  :  7000
+INSURANCENUMBER  :  INS-910372125488032286378474
+HOSPITAL  :  Coolidge Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Virginia
+LASTNAME  :  Miller
+ADDRESS  :  1802 Steele Road
+CITY  :  Claxton
+EMAIL  :  virginia.m@gmail.com
+PHONE  :  8196342895
+DOB  :  Sat Mar 07 05:30:00 IST 1959
+DISEASETYPE  :  Cancer
+DISEASE  :  Glioma childhood cerebral astrocytoma
+MEDICATION  :  Mesna|Mutamycin (Mitomycin C)|Alkeran Tablets (Melphalan)|Anastrozole|Degarelix|Trabectedin|Hycamtin (Topotecan Hydrochloride)|Arimidex (Anastrozole)|FOLFIRI|Keoxifene (Raloxifene Hydrochloride)|CeeNU (Lomustine)|Amboclorin (Chlorambucil)|XELIRI|Unituxin (Dinutuximab)|Opdivo (Nivolumab)
+MEDICALEXPENSE  :  38500
+INSURANCENUMBER  :  INS-910372125488032286378474
+HOSPITAL  :  Grovetown Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Virginia
+LASTNAME  :  Miller
+ADDRESS  :  1802 Steele Road
+CITY  :  Claxton
+EMAIL  :  virginia.m@gmail.com
+PHONE  :  8196342895
+DOB  :  Sat Mar 07 05:30:00 IST 1959
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Idiopathic Thrombocytopenic Purpura
+MEDICATION  :  Atryn (antithrombin recombinant lyophilized powder for reconstitution)|Nplate (romiplostim)|Adcetris (brentuximab vedotin)|Bexxar|Ravicti (glycerol phenylbutyrate)|Innohep (tinzaparin sodium) injectable|Arixtra|Neulasta|Lovenox (enoxaparin sodium) Injection|Gastrocrom Oral Concentrate (cromolyn sodium)|Folotyn (pralatrexate injection)
+MEDICALEXPENSE  :  41400
+INSURANCENUMBER  :  INS-910372125488032286378474
+HOSPITAL  :  Rutledge Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Virginia
+LASTNAME  :  Miller
+ADDRESS  :  1802 Steele Road
+CITY  :  Claxton
+EMAIL  :  virginia.m@gmail.com
+PHONE  :  8196342895
+DOB  :  Sat Mar 07 05:30:00 IST 1959
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Sleep Apnea
+MEDICATION  :  prednisone|terbutaline sulfate|influenza vaccine|mometasone furoate|ofloxacin|ipratropium bromide|pneumococcal conjugate vaccine|oxtriphylline|orciprenaline|isoniazid|etoposide|clarithromycin|beclomethasone dipropionate|amoxicillin|ketoconazole
+MEDICALEXPENSE  :  8300
+INSURANCENUMBER  :  INS-910372125488032286378474
+HOSPITAL  :  Stilson Medical Services
+HOSPITALTYPE  :  Private Hospital

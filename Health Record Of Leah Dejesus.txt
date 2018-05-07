@@ -1,0 +1,59 @@
+FIRSTNAME  :  Leah
+LASTNAME  :  Dejesus
+ADDRESS  :  817 Amber Path
+CITY  :  Moultrie
+EMAIL  :  leah.d@gmail.com
+PHONE  :  8925803285
+DOB  :  Thu Oct 17 05:30:00 IST 1957
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Pancreatic Ducts
+MEDICATION  :  magnesium hydroxide oral|omeprazole-sodium bicarbonate oral|aluminum hydrox-magnesium carb oral|Pepcid oral|Erythrocin (as stearate) oral|Nexium Packet oral|Pepcid AC oral
+MEDICALEXPENSE  :  1900
+INSURANCENUMBER  :  INS-935887530938055731303078
+HOSPITAL  :  Loganville Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Leah
+LASTNAME  :  Dejesus
+ADDRESS  :  817 Amber Path
+CITY  :  Moultrie
+EMAIL  :  leah.d@gmail.com
+PHONE  :  8925803285
+DOB  :  Thu Oct 17 05:30:00 IST 1957
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Impotence
+MEDICATION  :  Jalyn (dutasteride + tamsulosin)|Feraheme (ferumoxytol)|Caverject (alprostadil)|Seprafilm|Carbaglu (carglumic acid)|Cefazolin and Dextrose USP|Stendra (avanafil)
+MEDICALEXPENSE  :  21300
+INSURANCENUMBER  :  INS-935887530938055731303078
+HOSPITAL  :  Poulan Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Leah
+LASTNAME  :  Dejesus
+ADDRESS  :  817 Amber Path
+CITY  :  Moultrie
+EMAIL  :  leah.d@gmail.com
+PHONE  :  8925803285
+DOB  :  Thu Oct 17 05:30:00 IST 1957
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Gluten Intolerance
+MEDICATION  :  ranitidine oral|Heartburn Treatment 24 Hour oral|Reglan oral|EryPed 200 oral|Prilosec oral|EryPed 400 oral|Antacid Extra Strength (magnesium carb-aluminum hydrox) oral|Phillips Milk of Magnesia oral|cimetidine oral
+MEDICALEXPENSE  :  500
+INSURANCENUMBER  :  INS-935887530938055731303078
+HOSPITAL  :  Cumming Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Leah
+LASTNAME  :  Dejesus
+ADDRESS  :  817 Amber Path
+CITY  :  Moultrie
+EMAIL  :  leah.d@gmail.com
+PHONE  :  8925803285
+DOB  :  Thu Oct 17 05:30:00 IST 1957
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Gastritis
+MEDICATION  :  E.E.S. 200 oral|Dewee's Carminative oral|Acid Reducer (famotidine) oral|Ery-Tab oral|EryPed 400 oral|Acid Control (ranitidine) oral|Acid Controller Complete oral
+MEDICALEXPENSE  :  70900
+INSURANCENUMBER  :  INS-935887530938055731303078
+HOSPITAL  :  Kingsland Health Care
+HOSPITALTYPE  :  Private Hospital

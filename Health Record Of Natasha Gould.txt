@@ -1,0 +1,44 @@
+FIRSTNAME  :  Natasha
+LASTNAME  :  Gould
+ADDRESS  :  1662 Hamburg Lane
+CITY  :  Oakwood
+EMAIL  :  natasha.g1595@gmail.com
+PHONE  :  7192929518
+DOB  :  Fri May 18 05:30:00 IST 1979
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Overactive Bladder
+MEDICATION  :  Ditropan XL (oxybutynin chloride)|Vaprisol (conivaptan)
+MEDICALEXPENSE  :  62100
+INSURANCENUMBER  :  INS-187138045745821667950878
+HOSPITAL  :  Thelma Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Natasha
+LASTNAME  :  Gould
+ADDRESS  :  1662 Hamburg Lane
+CITY  :  Oakwood
+EMAIL  :  natasha.g1595@gmail.com
+PHONE  :  7192929518
+DOB  :  Fri May 18 05:30:00 IST 1979
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Thalassemia
+MEDICATION  :  Bosulif (bosutinib)|Alprolix [Coagulation Factor IX (Recombinant) Fc Fusion Protein]|Reyataz (atazanavir sulfate)|Agrylin (anagrelide HCL)|Glucagon|Xarelto (rivaroxaban)|Idelvion (Coagulation Factor IX (Recombinant) Albumin Fusion Protein)|Innohep (tinzaparin sodium) injectable|Aggrenox|Promacta (eltrombopag)|Dacogen (decitabine)|Pomalyst (pomalidomide)|BeneFIX (coagulation Factor IX (recombinant))|Arixtra|Erwinaze (asparaginase Erwinia chrysanthemi)|Fragmin|Ruconest (C1 esterase inhibitor [recombinant])|Argatroban Injection|Kyprolis (carfilzomib)
+MEDICALEXPENSE  :  2000
+INSURANCENUMBER  :  INS-187138045745821667950878
+HOSPITAL  :  Austell Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Natasha
+LASTNAME  :  Gould
+ADDRESS  :  1662 Hamburg Lane
+CITY  :  Oakwood
+EMAIL  :  natasha.g1595@gmail.com
+PHONE  :  7192929518
+DOB  :  Fri May 18 05:30:00 IST 1979
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Blood in the Urine
+MEDICATION  :  hydralazine|chlorhexidine|lanthanum (restricted)***|metoclopramide|hydroxyzine|sodium bicarbonate|sodium bicarbonate|sevelamer (restricted)***|cyanocobalamin
+MEDICALEXPENSE  :  2400
+INSURANCENUMBER  :  INS-187138045745821667950878
+HOSPITAL  :  Adairsville Hospital
+HOSPITALTYPE  :  Private Hospital

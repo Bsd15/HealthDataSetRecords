@@ -1,0 +1,59 @@
+FIRSTNAME  :  Jackie
+LASTNAME  :  Compton
+ADDRESS  :  1279 Friendship Boulevard
+CITY  :  Graham
+EMAIL  :  jackie.c194@gmail.com
+PHONE  :  8708741971
+DOB  :  Wed Dec 12 05:30:00 IST 1973
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Urinary Diversion
+MEDICATION  :  Vesicare (solifenacin succinate)|Envarsus XR (tacrolimus extended-release)|Gemzar (gemcitabine HCL)|Feraheme (ferumoxytol)|Caverject (alprostadil)|Stendra (avanafil)|RenaGelRenagel (sevelamer hydrochloride)|Renagel (sevelamer hydrochloride)|Mesnex|Sanctura (trospium chloride)|Zortress (everolimus)|Seprafilm|Cefazolin and Dextrose USP
+MEDICALEXPENSE  :  16200
+INSURANCENUMBER  :  INS-958553561427190632815545
+HOSPITAL  :  Haylon Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Jackie
+LASTNAME  :  Compton
+ADDRESS  :  1279 Friendship Boulevard
+CITY  :  Graham
+EMAIL  :  jackie.c194@gmail.com
+PHONE  :  8708741971
+DOB  :  Wed Dec 12 05:30:00 IST 1973
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Alagille Syndrome
+MEDICATION  :  rosiglitazone|azathioprine|Actos|Ultrase|Paromycin|pioglitazone|paromomycin|Pangestyme EC|orlistat|colchicine|Luminal|floxuridine|Panokase|ursodiol|Cholbam
+MEDICALEXPENSE  :  3700
+INSURANCENUMBER  :  INS-958553561427190632815545
+HOSPITAL  :  Palmetto Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Jackie
+LASTNAME  :  Compton
+ADDRESS  :  1279 Friendship Boulevard
+CITY  :  Graham
+EMAIL  :  jackie.c194@gmail.com
+PHONE  :  8708741971
+DOB  :  Wed Dec 12 05:30:00 IST 1973
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Autosomal Dominant Polycystic Kidney Disease
+MEDICATION  :  calcium carbonate (not Calsan brand)
+MEDICALEXPENSE  :  50600
+INSURANCENUMBER  :  INS-958553561427190632815545
+HOSPITAL  :  Baldwin Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Jackie
+LASTNAME  :  Compton
+ADDRESS  :  1279 Friendship Boulevard
+CITY  :  Graham
+EMAIL  :  jackie.c194@gmail.com
+PHONE  :  8708741971
+DOB  :  Wed Dec 12 05:30:00 IST 1973
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Hepatitis B
+MEDICATION  :  Pangestyme EC|FUDR|Actigall|paromomycin|Solfoton|Luminal|Avandia|nadolol|Dygase|Actos|Ultresa|propranolol|Pancrecarb MS|Cystadane|cholic acid|Zenpep|orlistat|Panokase
+MEDICALEXPENSE  :  75700
+INSURANCENUMBER  :  INS-958553561427190632815545
+HOSPITAL  :  Surrency Health Care
+HOSPITALTYPE  :  Private Hospital

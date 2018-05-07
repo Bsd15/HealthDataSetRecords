@@ -1,0 +1,44 @@
+FIRSTNAME  :  Vickie
+LASTNAME  :  Wiggins
+ADDRESS  :  1121 Bethesda Street
+CITY  :  Gainesville
+EMAIL  :  vickie.w@gmail.com
+PHONE  :  8092495445
+DOB  :  Tue Nov 17 05:30:00 IST 1964
+DISEASETYPE  :  Cancer
+DISEASE  :  Visual pathway and hypothalamic glioma childhood
+MEDICATION  :  Talimogene Laherparepvec|Mylotarg (Gemtuzumab Ozogamicin)|Rolapitant Hydrochloride|Trametinib|Stivarga (Regorafenib)|Zelboraf (Vemurafenib)|HPV Quadrivalent Vaccine Recombinant|Gleevec (Imatinib Mesylate)|Aprepitant|Lenvima (Lenvatinib Mesylate)|Vistogard (Uridine Triacetate)|Raloxifene Hydrochloride|Idarubicin Hydrochloride
+MEDICALEXPENSE  :  59200
+INSURANCENUMBER  :  INS-700518829769113194009308
+HOSPITAL  :  Auburn Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Vickie
+LASTNAME  :  Wiggins
+ADDRESS  :  1121 Bethesda Street
+CITY  :  Gainesville
+EMAIL  :  vickie.w@gmail.com
+PHONE  :  8092495445
+DOB  :  Tue Nov 17 05:30:00 IST 1964
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Cystocele
+MEDICATION  :  Lupron Depot (leuprolide acetate for depot suspension)|Venofer (iron sucrose injection)|Renagel (sevelamer hydrochloride)|Afinitor (everolimus)|Trelstar Depot (triptorelin pamoate)|Carbaglu (carglumic acid)|Nulojix (belatacept)|Seprafilm|Levaquin|Gelnique (oxybutynin chloride)|Hectorol (Doxercalciferol) Injection|Auryxia (Ferric citrate)|Rapamune (sirolimus) Tablets|Renvela (sevelamer carbonate)|Injectafer (ferric carboxymaltose injection)
+MEDICALEXPENSE  :  7500
+INSURANCENUMBER  :  INS-700518829769113194009308
+HOSPITAL  :  Rome Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Vickie
+LASTNAME  :  Wiggins
+ADDRESS  :  1121 Bethesda Street
+CITY  :  Gainesville
+EMAIL  :  vickie.w@gmail.com
+PHONE  :  8092495445
+DOB  :  Tue Nov 17 05:30:00 IST 1964
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Anemia and CKD
+MEDICATION  :  mupirocin cream and ointment|cyanocobalamin|cinacalcet (restricted)****|sodium polystyrene sulfonate|alphacalcidol|minoxidil|clonazepam|prochlorperazine|ferrous fumarate|trandolapril|propranolol|calcium liquid|sinemet|nortryptyline|allopurinol|desferoxamine|nifedipine|quinapril
+MEDICALEXPENSE  :  6700
+INSURANCENUMBER  :  INS-700518829769113194009308
+HOSPITAL  :  Sylvester Health Care
+HOSPITALTYPE  :  General Hospital

@@ -1,0 +1,59 @@
+FIRSTNAME  :  Duane
+LASTNAME  :  Rose
+ADDRESS  :  1147 Chase Path
+CITY  :  Thomasville
+EMAIL  :  duane.r755@gmail.com
+PHONE  :  8464622271
+DOB  :  Sat Oct 18 05:30:00 IST 1980
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Aplastic Anemia 
+MEDICATION  :  Istodax (romidepsin)|Obizur [Antihemophilic Factor (Recombinant) Porcine Sequence]|Alprolix [Coagulation Factor IX (Recombinant) Fc Fusion Protein]|Pravachol (pravastatin sodium)|Xarelto (rivaroxaban)|Kogenate FS (Antihemophilic Factor Recombinant)|Glucagon|Busulflex|Refludan|Lovenox (enoxaparin sodium) Injection|Wilate (von Willebrand Factor/Coagulation Factor VIII Complex (Human)|Revlimid (lenalidomide)|Femara (letrozole)|Blincyto (blinatumomab)|Samsca (tolvaptan)|Neulasta
+MEDICALEXPENSE  :  94700
+INSURANCENUMBER  :  INS-916238181758717958925472
+HOSPITAL  :  Canton Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Duane
+LASTNAME  :  Rose
+ADDRESS  :  1147 Chase Path
+CITY  :  Thomasville
+EMAIL  :  duane.r755@gmail.com
+PHONE  :  8464622271
+DOB  :  Sat Oct 18 05:30:00 IST 1980
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Anemia
+MEDICATION  :  BeneFIX (coagulation Factor IX (recombinant))|Gazyva (obinutuzumab)|Elelyso (taliglucerase alfa)|Visipaque (iodixanol)
+MEDICALEXPENSE  :  5100
+INSURANCENUMBER  :  INS-916238181758717958925472
+HOSPITAL  :  Chatsworth Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Duane
+LASTNAME  :  Rose
+ADDRESS  :  1147 Chase Path
+CITY  :  Thomasville
+EMAIL  :  duane.r755@gmail.com
+PHONE  :  8464622271
+DOB  :  Sat Oct 18 05:30:00 IST 1980
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Cirrhosis
+MEDICATION  :  Urso|Avandia|Creon|Urso Forte|Humatin
+MEDICALEXPENSE  :  64000
+INSURANCENUMBER  :  INS-916238181758717958925472
+HOSPITAL  :  Bowens Hospital
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Duane
+LASTNAME  :  Rose
+ADDRESS  :  1147 Chase Path
+CITY  :  Thomasville
+EMAIL  :  duane.r755@gmail.com
+PHONE  :  8464622271
+DOB  :  Sat Oct 18 05:30:00 IST 1980
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Barrett's Esophagus
+MEDICATION  :  E.E.S. Granules oral|Phillips' (magnesium hydroxide) oral|Antacid Extra Strength (magnesium carb-aluminum hydrox) oral|Pedia-Lax oral|Ery-Tab oral|Acid Gone Antacid Extra Strength oral|famotidine (PF) in NaCl (iso-osmotic) intravenous|Zegerid oral|Nauzene oral|Gaviscon Extra Strength oral|MAG-AL oral|Rulox oral|Phillips Milk of Magnesia oral|Zantac Maximum Strength oral|pantoprazole oral|Antacid oral
+MEDICALEXPENSE  :  15100
+INSURANCENUMBER  :  INS-916238181758717958925472
+HOSPITAL  :  Sugar Health Care
+HOSPITALTYPE  :  Private Hospital

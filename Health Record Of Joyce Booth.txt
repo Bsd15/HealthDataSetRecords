@@ -1,0 +1,59 @@
+FIRSTNAME  :  Joyce
+LASTNAME  :  Booth
+ADDRESS  :  939 Burlington Road
+CITY  :  Centerville
+EMAIL  :  joyce.b@gmail.com
+PHONE  :  7613256410
+DOB  :  Fri Sep 01 05:30:00 IST 1961
+DISEASETYPE  :  Cancer
+DISEASE  :  Ovarian epithelial cancer (surface epithelial-stromal tumor)
+MEDICATION  :  Vemurafenib|Imatinib Mesylate|Tagrisso (Osimertinib)|Alecensa (Alectinib)|Tolak (Fluorouracil--Topical)|Bendamustine Hydrochloride|Radium 223 Dichloride
+MEDICALEXPENSE  :  1000
+INSURANCENUMBER  :  INS-151576190844418201811970
+HOSPITAL  :  Glennville Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Joyce
+LASTNAME  :  Booth
+ADDRESS  :  939 Burlington Road
+CITY  :  Centerville
+EMAIL  :  joyce.b@gmail.com
+PHONE  :  7613256410
+DOB  :  Fri Sep 01 05:30:00 IST 1961
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  ERCP (Endoscopic Retrograde Cholangiopancreatography)
+MEDICATION  :  Cystadane|floxuridine|Lapase|Cholbam|Ultresa|Nexavar|Urso|sorafenib|Actos|Panokase|Viokase|Actigall|pancrelipase|Pertzye|Pancrease MT|paromomycin|Neo-Fradin
+MEDICALEXPENSE  :  6800
+INSURANCENUMBER  :  INS-151576190844418201811970
+HOSPITAL  :  Ellijay Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Joyce
+LASTNAME  :  Booth
+ADDRESS  :  939 Burlington Road
+CITY  :  Centerville
+EMAIL  :  joyce.b@gmail.com
+PHONE  :  7613256410
+DOB  :  Fri Sep 01 05:30:00 IST 1961
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Albuminuria and CKD
+MEDICATION  :  carbamazepine|sorbitol|verapamil|PEG 3350 without electrolytes|felodipine|fluconazole|telmisartan**|maleate|ramipril|acebutolol|minoxidil|PEG 3350 with electrolytes|iron dextran|metoclopramide|nifedipine|iron dextran^|sodium bicarbonate
+MEDICALEXPENSE  :  4000
+INSURANCENUMBER  :  INS-151576190844418201811970
+HOSPITAL  :  Millen Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Joyce
+LASTNAME  :  Booth
+ADDRESS  :  939 Burlington Road
+CITY  :  Centerville
+EMAIL  :  joyce.b@gmail.com
+PHONE  :  7613256410
+DOB  :  Fri Sep 01 05:30:00 IST 1961
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Idiopathic Pulmonary Fibrosis
+MEDICATION  :  formoterol fumarate|fluconazole|pneumococcal conjugate vaccine adsorbed
+MEDICALEXPENSE  :  5400
+INSURANCENUMBER  :  INS-151576190844418201811970
+HOSPITAL  :  Chatsworth Health Care
+HOSPITALTYPE  :  Private Hospital

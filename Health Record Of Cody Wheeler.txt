@@ -1,0 +1,59 @@
+FIRSTNAME  :  Cody
+LASTNAME  :  Wheeler
+ADDRESS  :  473 Powell Lane
+CITY  :  Doraville
+EMAIL  :  cody.w552@gmail.com
+PHONE  :  8123686087
+DOB  :  Sun Oct 04 05:30:00 IST 1959
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Hepatitis B: What Asian and Pacific Islander Americans Need to Know
+MEDICATION  :  omeprazole oral|Aciphex oral|Al hyd-Mg tr-alg ac-sod bicarb oral|Ri-Mox oral|Gaviscon oral|Antacid Liquid oral|magnesium hydroxide oral|Milk Of Magnesia Concentrated oral|nizatidine oral|EryPed 400 oral|erythromycin stearate oral|E.E.S. Granules oral
+MEDICALEXPENSE  :  48800
+INSURANCENUMBER  :  INS-415275052686130334483028
+HOSPITAL  :  Pridgen Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Cody
+LASTNAME  :  Wheeler
+ADDRESS  :  473 Powell Lane
+CITY  :  Doraville
+EMAIL  :  cody.w552@gmail.com
+PHONE  :  8123686087
+DOB  :  Sun Oct 04 05:30:00 IST 1959
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Statistics Digestive Diseases for the United States
+MEDICATION  :  Complete oral|famotidine in 0.9 % sodium chloride intravenous|Dewee's Carminative oral|famotidine-Ca carb-mag hydrox oral|Prevacid SoluTab oral|Pedia-Lax oral|Metozolv ODT oral|lansoprazole oral|Pepcid AC oral|Zantac injection|Reglan oral|Milk of Magnesia oral|Antacid oral|magnesium-aluminum-alginic ac oral|Acid Control (ranitidine) oral|Prevacid 24Hr oral|Phillips' (magnesium hydroxide) oral|Nexium oral|Protonix oral
+MEDICALEXPENSE  :  100
+INSURANCENUMBER  :  INS-415275052686130334483028
+HOSPITAL  :  Tarboro Health Care
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Cody
+LASTNAME  :  Wheeler
+ADDRESS  :  473 Powell Lane
+CITY  :  Doraville
+EMAIL  :  cody.w552@gmail.com
+PHONE  :  8123686087
+DOB  :  Sun Oct 04 05:30:00 IST 1959
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Von Willebrand Disease
+MEDICATION  :  Vpriv (velaglucerase alfa for injection)|Folotyn (pralatrexate injection)|Istodax (romidepsin)|Bosulif (bosutinib)|Mozobil (plerixafor injection)|Xarelto (rivaroxaban)|Blincyto (blinatumomab)|Argatroban Injection|Darzalex (daratumumab)|Innohep (tinzaparin sodium) injectable|Femara (letrozole)
+MEDICALEXPENSE  :  1700
+INSURANCENUMBER  :  INS-415275052686130334483028
+HOSPITAL  :  Augusta Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Cody
+LASTNAME  :  Wheeler
+ADDRESS  :  473 Powell Lane
+CITY  :  Doraville
+EMAIL  :  cody.w552@gmail.com
+PHONE  :  8123686087
+DOB  :  Sun Oct 04 05:30:00 IST 1959
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Hemochromatosis
+MEDICATION  :  Kogenate FS (Antihemophilic Factor Recombinant)|Elitek (rasburicase)|Injectafer (ferric carboxymaltose injection)|Xarelto (rivaroxaban)|Valchlor (mechlorethamine) gel|Imbruvica (ibrutinib)|Arixtra|Alprolix [Coagulation Factor IX (Recombinant) Fc Fusion Protein]|Zontivity (vorapaxar)|Kuvan (sapropterin dihydrochloride)|Elelyso (taliglucerase alfa)
+MEDICALEXPENSE  :  1200
+INSURANCENUMBER  :  INS-415275052686130334483028
+HOSPITAL  :  Everitt Medical Services
+HOSPITALTYPE  :  State Funded Hospital

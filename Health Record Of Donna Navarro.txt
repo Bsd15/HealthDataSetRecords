@@ -1,0 +1,59 @@
+FIRSTNAME  :  Donna
+LASTNAME  :  Navarro
+ADDRESS  :  417 Fritter Circle
+CITY  :  Darien
+EMAIL  :  donna.n@gmail.com
+PHONE  :  7651726897
+DOB  :  Sun Jul 22 05:30:00 IST 1979
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  Cirrhosis
+MEDICATION  :  Pangestyme EC|FUDR
+MEDICALEXPENSE  :  9400
+INSURANCENUMBER  :  INS-464894136151883407615224
+HOSPITAL  :  Ellaville Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Donna
+LASTNAME  :  Navarro
+ADDRESS  :  417 Fritter Circle
+CITY  :  Darien
+EMAIL  :  donna.n@gmail.com
+PHONE  :  7651726897
+DOB  :  Sun Jul 22 05:30:00 IST 1979
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Albumin
+MEDICATION  :  PEG 3350 with electrolytes|darbepoetin (Aranesp) [restricted]*^|darpepoetin (Aransep) (restricted)*^|sodium polystyrene sulfonate|ferrous gluconate|aluminum hydroxide|diphenhydramine|EMLA (restricted)*****|Phosphate Binders|calcium acetate|erythropoietin (Eprex) [restricted]*^
+MEDICALEXPENSE  :  4200
+INSURANCENUMBER  :  INS-464894136151883407615224
+HOSPITAL  :  Riverside Hospital
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Donna
+LASTNAME  :  Navarro
+ADDRESS  :  417 Fritter Circle
+CITY  :  Darien
+EMAIL  :  donna.n@gmail.com
+PHONE  :  7651726897
+DOB  :  Sun Jul 22 05:30:00 IST 1979
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Sleep Apnea
+MEDICATION  :  cephalexin|zanamivir|oxtriphylline|ipratropium bromide|amoxicillin|montelukast sodium|theophylline|formoterol fumarate|cefuroxime axetil|gefitinib|prednisone|fluconazole|cisplatin|ciclesonide|triamcinolone acetonide|ciprofloxacin hydrochloride|olodaterol|clarithromycin|minocycline
+MEDICALEXPENSE  :  3300
+INSURANCENUMBER  :  INS-464894136151883407615224
+HOSPITAL  :  Oxford Emergency Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Donna
+LASTNAME  :  Navarro
+ADDRESS  :  417 Fritter Circle
+CITY  :  Darien
+EMAIL  :  donna.n@gmail.com
+PHONE  :  7651726897
+DOB  :  Sun Jul 22 05:30:00 IST 1979
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Peritoneal Dialysis
+MEDICATION  :  lactulose|valsartan**|sennosides|carbamazepine|calcium polystyrene sulfonate|prednisone|maleate|sodium polystyrene sulfonate|iron gluconate^|Calcium Supplements|iron dextran|darpepoetin (Aransep) (restricted)*^|isosorbide dinitrate|zinc gluconate|iron sucrose (restricted)^|perindopril|candesartan**|metoprolol
+MEDICALEXPENSE  :  17500
+INSURANCENUMBER  :  INS-464894136151883407615224
+HOSPITAL  :  Howell Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital

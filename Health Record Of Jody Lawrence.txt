@@ -1,0 +1,59 @@
+FIRSTNAME  :  Jody
+LASTNAME  :  Lawrence
+ADDRESS  :  1755 Idaho Circle
+CITY  :  Gray
+EMAIL  :  jody.l@gmail.com
+PHONE  :  8299289228
+DOB  :  Tue Feb 23 05:30:00 IST 1982
+DISEASETYPE  :  Kidney-Diseases
+DISEASE  :  Sponge Kidney
+MEDICATION  :  furosemide|darpepoetin (Aransep) (restricted)*^|lisinopril|Vitamin D3|isosorbide dinitrate|fluconazole|ferrous sulfate gluconate & fumarate|sodium polystyrene sulfonate|bisopolol|ramipril
+MEDICALEXPENSE  :  8600
+INSURANCENUMBER  :  INS-396063749098175694925610
+HOSPITAL  :  Dublin Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Jody
+LASTNAME  :  Lawrence
+ADDRESS  :  1755 Idaho Circle
+CITY  :  Gray
+EMAIL  :  jody.l@gmail.com
+PHONE  :  8299289228
+DOB  :  Tue Feb 23 05:30:00 IST 1982
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Anal Fissure
+MEDICATION  :  famotidine intravenous|Heartburn Antacid oral|Wal-Zan 150 oral|Phillips Milk of Magnesia oral|PCE oral|Pedia-Lax oral|Antacid Liquid oral|Ery-Tab oral|Foaming Antacid Extra Strength oral|Protonix intravenous|Dewee's Carminative oral|Foaming Antacid oral|Milk of Magnesia oral|erythromycin stearate oral|famotidine oral|erythromycin oral
+MEDICALEXPENSE  :  6100
+INSURANCENUMBER  :  INS-396063749098175694925610
+HOSPITAL  :  Snellville Hospital
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Jody
+LASTNAME  :  Lawrence
+ADDRESS  :  1755 Idaho Circle
+CITY  :  Gray
+EMAIL  :  jody.l@gmail.com
+PHONE  :  8299289228
+DOB  :  Tue Feb 23 05:30:00 IST 1982
+DISEASETYPE  :  Cancer
+DISEASE  :  Renal cell carcinoma (kidney cancer)
+MEDICATION  :  Intron A (Recombinant Interferon Alfa-2b)|Camptosar (Irinotecan Hydrochloride)|Alectinib|Xalkori (Crizotinib)|Yondelis (Trabectedin)|Vincristine Sulfate|Kyprolis (Carfilzomib)|Oxaliplatin|Trisenox (Arsenic Trioxide)|Ninlaro (Ixazomib Citrate)|Clofarabine
+MEDICALEXPENSE  :  83800
+INSURANCENUMBER  :  INS-396063749098175694925610
+HOSPITAL  :  Warwick Hospital
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Jody
+LASTNAME  :  Lawrence
+ADDRESS  :  1755 Idaho Circle
+CITY  :  Gray
+EMAIL  :  jody.l@gmail.com
+PHONE  :  8299289228
+DOB  :  Tue Feb 23 05:30:00 IST 1982
+DISEASETYPE  :  Cancer
+DISEASE  :  Nasopharyngeal carcinoma
+MEDICATION  :  Paclitaxel|Ifex (Ifosfamide)|Romiplostim|Vidaza (Azacitidine)|Recombinant Human Papillomavirus (HPV) Nonavalent Vaccine|Trabectedin|Olaparib|Sipuleucel-T|Mitozytrex (Mitomycin C)|Everolimus|FOLFIRI-CETUXIMAB|DepoCyt (Cytarabine Liposome)|Eltrombopag Olamine|Tykerb (Lapatinib Ditosylate)|TAC|Zolinza (Vorinostat)
+MEDICALEXPENSE  :  2100
+INSURANCENUMBER  :  INS-396063749098175694925610
+HOSPITAL  :  Georgetown Medical Services
+HOSPITALTYPE  :  Private Hospital

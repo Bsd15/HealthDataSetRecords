@@ -1,0 +1,44 @@
+FIRSTNAME  :  Jeannie
+LASTNAME  :  Stanley
+ADDRESS  :  1062 Butler Ave
+CITY  :  Eatonton
+EMAIL  :  jeannie.s@gmail.com
+PHONE  :  8720895204
+DOB  :  Fri Nov 03 05:30:00 IST 1967
+DISEASETYPE  :  Cancer
+DISEASE  :  Astrocytoma childhood cerebellar or cerebral
+MEDICATION  :  Carmustine Implant|Oncaspar (Pegaspargase)|Proleukin (Aldesleukin)|Cisplatin|COPP-ABV|Talimogene Laherparepvec|Tykerb (Lapatinib Ditosylate)|Abraxane (Paclitaxel Albumin-stabilized Nanoparticle Formulation)|Paraplatin (Carboplatin)|Blincyto (Blinatumomab)|Trifluridine and Tipiracil Hydrochloride|Gemcitabine Hydrochloride|Carmustine|Tafinlar (Dabrafenib)
+MEDICALEXPENSE  :  7700
+INSURANCENUMBER  :  INS-993088742218254086131947
+HOSPITAL  :  Odum Medical Services
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Jeannie
+LASTNAME  :  Stanley
+ADDRESS  :  1062 Butler Ave
+CITY  :  Eatonton
+EMAIL  :  jeannie.s@gmail.com
+PHONE  :  8720895204
+DOB  :  Fri Nov 03 05:30:00 IST 1967
+DISEASETYPE  :  Cancer
+DISEASE  :  Plasma cell neoplasia/Multiple myeloma
+MEDICATION  :  Cytosar-U (Cytarabine)|Fludara (Fludarabine Phosphate)|Alkeran Tablets (Melphalan)|Etoposide Phosphate|Zinecard (Dexrazoxane Hydrochloride)|PCV|Intron A (Recombinant Interferon Alfa-2b)|Cytoxan (Cyclophosphamide)|Degarelix|Palbociclib|Lynparza (Olaparib)|Trisenox (Arsenic Trioxide)|Dinutuximab|Lanreotide Acetate|Elitek (Rasburicase)|Eltrombopag Olamine|Paclitaxel
+MEDICALEXPENSE  :  3700
+INSURANCENUMBER  :  INS-993088742218254086131947
+HOSPITAL  :  Eldorado Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Jeannie
+LASTNAME  :  Stanley
+ADDRESS  :  1062 Butler Ave
+CITY  :  Eatonton
+EMAIL  :  jeannie.s@gmail.com
+PHONE  :  8720895204
+DOB  :  Fri Nov 03 05:30:00 IST 1967
+DISEASETYPE  :  Liver-Disease
+DISEASE  :  ERCP (Endoscopic Retrograde Cholangiopancreatography)
+MEDICATION  :  Pancreaze|Luminal|orlistat|ursodiol|Cholbam|Creon|sorafenib|betaine|Actos|nadolol|ursodiol|Zenpep|Viokase|Avandia|Paromycin
+MEDICALEXPENSE  :  3700
+INSURANCENUMBER  :  INS-993088742218254086131947
+HOSPITAL  :  Cartersville Health Care
+HOSPITALTYPE  :  Private Hospital

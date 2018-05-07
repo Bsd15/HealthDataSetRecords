@@ -1,0 +1,59 @@
+FIRSTNAME  :  Dixie
+LASTNAME  :  Middleton
+ADDRESS  :  1144 Pennisula Way
+CITY  :  Helena
+EMAIL  :  dixie.m@gmail.com
+PHONE  :  7116757327
+DOB  :  Fri Nov 10 05:30:00 IST 1972
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  Blood in the Urine
+MEDICATION  :  Voraxaze (glucarpidase)|Simulect|Vaprisol (conivaptan)|Interstim Continence Control Therapy|Provenge (sipuleucel-T)|Detrol LA (tolterodine tartrate)|Monurol|Myrbetriq (mirabegron)|Feraheme (ferumoxytol)
+MEDICALEXPENSE  :  3600
+INSURANCENUMBER  :  INS-601324254434687375159457
+HOSPITAL  :  Claxton Health Care
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Dixie
+LASTNAME  :  Middleton
+ADDRESS  :  1144 Pennisula Way
+CITY  :  Helena
+EMAIL  :  dixie.m@gmail.com
+PHONE  :  7116757327
+DOB  :  Fri Nov 10 05:30:00 IST 1972
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Influenza
+MEDICATION  :  mometasone furoate|timothy grass pollen allergen extract|aminophylline
+MEDICALEXPENSE  :  88500
+INSURANCENUMBER  :  INS-601324254434687375159457
+HOSPITAL  :  Haylon Health Care
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Dixie
+LASTNAME  :  Middleton
+ADDRESS  :  1144 Pennisula Way
+CITY  :  Helena
+EMAIL  :  dixie.m@gmail.com
+PHONE  :  7116757327
+DOB  :  Fri Nov 10 05:30:00 IST 1972
+DISEASETYPE  :  Cancer
+DISEASE  :  Melanoma intraocular (eye)
+MEDICATION  :  Ontak (Denileukin Diftitox)|Gilotrif (Afatinib Dimaleate)|Mesna
+MEDICALEXPENSE  :  4900
+INSURANCENUMBER  :  INS-601324254434687375159457
+HOSPITAL  :  Baden Hospital
+HOSPITALTYPE  :  MultiSpeciality Hospital
+==================  :  ===================
+FIRSTNAME  :  Dixie
+LASTNAME  :  Middleton
+ADDRESS  :  1144 Pennisula Way
+CITY  :  Helena
+EMAIL  :  dixie.m@gmail.com
+PHONE  :  7116757327
+DOB  :  Fri Nov 10 05:30:00 IST 1972
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Microscopic Colitis: Collagenous Colitis and Lymphocytic Colitis
+MEDICATION  :  Acid Gone Antacid Extra Strength oral|Rulox oral|Nauzene oral|Wal-Zan 150 oral|Alka-Seltzer Gold oral|Foaming Antacid oral|omeprazole magnesium oral|Acid Reducer (famotidine) oral|pantoprazole oral|aluminum hydroxide gel oral|aluminum hydrox-magnesium carb oral|dexlansoprazole oral|famotidine (PF) intravenous|Zantac Maximum Strength oral|famotidine in 0.9 % sodium chloride intravenous|metoclopramide oral|Gaviscon oral|cimetidine HCl oral
+MEDICALEXPENSE  :  65000
+INSURANCENUMBER  :  INS-601324254434687375159457
+HOSPITAL  :  Madison Health Care
+HOSPITALTYPE  :  Private Hospital

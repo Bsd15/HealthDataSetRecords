@@ -1,0 +1,44 @@
+FIRSTNAME  :  Rusty
+LASTNAME  :  Weber
+ADDRESS  :  517 Lawhead Crescent
+CITY  :  Arlington
+EMAIL  :  rusty.w@gmail.com
+PHONE  :  8137676816
+DOB  :  Mon Nov 19 05:30:00 IST 1962
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Thrombotic Thrombocytopenic Purpura
+MEDICATION  :  Mircera (methoxy polyethylene glycol-epoetin beta)|Elitek (rasburicase)|Farydak (panobinostat)|Droxia|Zontivity (vorapaxar)|Marqibo (vinCRIStine sulfate LIPOSOME injection)|Revlimid (lenalidomide)|Makena (hydroxyprogesterone caproate injection)|Feraheme (ferumoxytol)|Efient (prasugrel)
+MEDICALEXPENSE  :  7500
+INSURANCENUMBER  :  INS-636877046077384279830715
+HOSPITAL  :  Tarver Emergency Services
+HOSPITALTYPE  :  State Funded Hospital
+==================  :  ===================
+FIRSTNAME  :  Rusty
+LASTNAME  :  Weber
+ADDRESS  :  517 Lawhead Crescent
+CITY  :  Arlington
+EMAIL  :  rusty.w@gmail.com
+PHONE  :  8137676816
+DOB  :  Mon Nov 19 05:30:00 IST 1962
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Pulmonary Embolism
+MEDICATION  :  glycopyrronium bromide|olodaterol|cisplatin|vilanterol trifenatate|salmeterol xinafoate|moxifloxacin|erythromycin|clindamycin
+MEDICALEXPENSE  :  34800
+INSURANCENUMBER  :  INS-636877046077384279830715
+HOSPITAL  :  Surrency Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Rusty
+LASTNAME  :  Weber
+ADDRESS  :  517 Lawhead Crescent
+CITY  :  Arlington
+EMAIL  :  rusty.w@gmail.com
+PHONE  :  8137676816
+DOB  :  Mon Nov 19 05:30:00 IST 1962
+DISEASETYPE  :  Blood-Diseases
+DISEASE  :  Pulmonary Embolism
+MEDICATION  :  Imbruvica (ibrutinib)|Samsca (tolvaptan)|Atryn (antithrombin recombinant lyophilized powder for reconstitution)|Efient (prasugrel)|Pravachol (pravastatin sodium)|Busulflex|Soliris (eculizumab)|Iclusig (ponatinib)|Kogenate FS (Antihemophilic Factor Recombinant)|Soliris (eculizumab)|Gazyva (obinutuzumab)|Jakafi (ruxolitinib)|Glyburide Tablets|Omontys (peginesatide)|Bosulif (bosutinib)|Marqibo (vinCRIStine sulfate LIPOSOME injection)|Pomalyst (pomalidomide)|Beleodaq (belinostat)
+MEDICALEXPENSE  :  69600
+INSURANCENUMBER  :  INS-636877046077384279830715
+HOSPITAL  :  Mcrae Emergency Services
+HOSPITALTYPE  :  MultiSpeciality Hospital

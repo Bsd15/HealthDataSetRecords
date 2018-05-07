@@ -1,0 +1,59 @@
+FIRSTNAME  :  Denise
+LASTNAME  :  Rivas
+ADDRESS  :  1248 Shiplett Avenue
+CITY  :  Ailey
+EMAIL  :  denise.r@gmail.com
+PHONE  :  8763361166
+DOB  :  Fri Oct 22 05:30:00 IST 1965
+DISEASETYPE  :  Lung-Disease
+DISEASE  :  Sarcoidosis
+MEDICATION  :  isoniazid|minocycline|orciprenaline|fluticasone propionate|epoprostenol sodium|varenicline|terbutaline sulfate|tobramycin sulfate|ciclesonide|pneumococcal conjugate vaccine adsorbed
+MEDICALEXPENSE  :  66200
+INSURANCENUMBER  :  INS-064685859571421179773972
+HOSPITAL  :  Wrightsville Emergency Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Denise
+LASTNAME  :  Rivas
+ADDRESS  :  1248 Shiplett Avenue
+CITY  :  Ailey
+EMAIL  :  denise.r@gmail.com
+PHONE  :  8763361166
+DOB  :  Fri Oct 22 05:30:00 IST 1965
+DISEASETYPE  :  Urology-Disease
+DISEASE  :  ﻿Bedwetting
+MEDICATION  :  Anturol (oxybutynin) Gel|Venofer (iron sucrose injection)|Viekira Pak (ombitasvir paritaprevir ritonavir and dasabuvir) tablets|Caverject (alprostadil)
+MEDICALEXPENSE  :  400
+INSURANCENUMBER  :  INS-064685859571421179773972
+HOSPITAL  :  Sunsweet Hospital
+HOSPITALTYPE  :  General Hospital
+==================  :  ===================
+FIRSTNAME  :  Denise
+LASTNAME  :  Rivas
+ADDRESS  :  1248 Shiplett Avenue
+CITY  :  Ailey
+EMAIL  :  denise.r@gmail.com
+PHONE  :  8763361166
+DOB  :  Fri Oct 22 05:30:00 IST 1965
+DISEASETYPE  :  Cancer
+DISEASE  :  Eye cancer intraocular melanoma
+MEDICATION  :  Trifluridine and Tipiracil Hydrochloride|Thalomid (Thalidomide)|Tarceva (Erlotinib Hydrochloride)|Recombinant Interferon Alfa-2b|Dexrazoxane Hydrochloride|Prednisone|IL-2 (Aldesleukin)|Erbitux (Cetuximab)|Iressa (Gefitinib)|Afatinib Dimaleate|Netupitant and Palonosetron Hydrochloride|Cotellic (Cobimetinib)
+MEDICALEXPENSE  :  52900
+INSURANCENUMBER  :  INS-064685859571421179773972
+HOSPITAL  :  Louisville Medical Services
+HOSPITALTYPE  :  Private Hospital
+==================  :  ===================
+FIRSTNAME  :  Denise
+LASTNAME  :  Rivas
+ADDRESS  :  1248 Shiplett Avenue
+CITY  :  Ailey
+EMAIL  :  denise.r@gmail.com
+PHONE  :  8763361166
+DOB  :  Fri Oct 22 05:30:00 IST 1965
+DISEASETYPE  :  Stomach-Disorder
+DISEASE  :  Viral Gastroenteritis
+MEDICATION  :  esomeprazole magnesium oral|Heartburn Relief oral|Acid Gone Antacid Extra Strength oral|Zegerid OTC oral|Dewee's Carminative oral|erythromycin stearate oral|Protonix intravenous|Riginic oral|Wal-Zan 150 oral|Prevacid SoluTab oral|Nauzene oral|rabeprazole oral|Gaviscon oral|Zantac Maximum Strength oral|Prilosec oral|Tums Dual Action (famotidine) oral|Nexium 24HR oral
+MEDICALEXPENSE  :  900
+INSURANCENUMBER  :  INS-064685859571421179773972
+HOSPITAL  :  Statenville Health Care
+HOSPITALTYPE  :  MultiSpeciality Hospital
